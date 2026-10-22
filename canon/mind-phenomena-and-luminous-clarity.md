@@ -115,12 +115,53 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
    they are empty, they can arise", "established by emptiness" and "vivid because empty".
    *Canon 3, 5; Art. Across the articles, point 17.*
 
-9. **Designation is the whole status, not a label on top.** A thing and its designation arise together; the thing
-   is not there first, waiting to be named. "There is no undesignated layer on which labels are placed": something
-   is always seen as something. Calling a thing designated does not demote it. Convention is the only validity, and
-   it is full validity.
-   *SW Intro ("A Working Vocabulary"), Ch 13; AE Note on Method; Art. Beyond Cause and Effect ("the whole status of
-   the cause"; "never… an undesignated floor").*
+9. **Designation is the whole status, not a label on top.** A thing and its designation arise together; no thing
+   comes with its own edges and oneness, ready-made, waiting to be named. "There is no undesignated layer on which
+   labels are placed": something is always seen as something. Dependent designation is how things are
+   conventionally established: picked out, by perception, concept or language, together with their bases, parts and
+   contexts, with no undesignated layer beneath and no pre-carved world before. Calling a thing designated does not
+   demote it. Convention is constrained by what works; it is the only validity, and it is full validity.
+
+   *Explanation.*
+   - **The middle way itself.** "Dependent arising is what we call emptiness. That is a designation in dependence, and
+     that itself is the middle way" (24.18). "Designation is the way such things are named and known, and the naming
+     is itself dependent." It "is not a compromise between existence and non-existence. It is what the middle path
+     looks like when it is understood."
+   - **Wider than language.** Designation is "the picking out of something as this rather than that, by perception,
+     concept or language". "Dependent designation is therefore not fundamentally a theory of naming; language is
+     merely its expression." Innate grasping shows designation at work before words.
+   - **Neither labels on a finished world nor creation from nothing.** "Dependent designation does not create
+     conventional reality out of nothing. Nor does it merely attach labels to an already completed world." The
+     central theorem: it "is not the conceptual labelling of a pre-existing world, but the simultaneous articulation of
+     dependent arising itself".
+   - **The mountain before anyone names it.** "Conventionally, the mountain is there before anyone names it… what is
+     denied is a mountain whose boundary and oneness come with it independently of designation." Naming does not make
+     the mountain; no mountain carries its edges and oneness from its own side.
+   - **The basis is designated too.** "The basis of designation… the parts of the chariot, the aggregates of the
+     person… is designated too." Tsongkhapa: "even the basis on which something is designated (*gdags gzhi*) is itself
+     merely designated, so that designation never bottoms out in something given." There is no real layer of sensation
+     underneath and a merely conceptual layer of naming on top (point 23).
+   - **Parts and whole together.** "Dependent designation is not parts producing a whole. It is parts-and-whole arising
+     together, mutually, with neither side doing the producing." Sought apart from, identical with, owning or
+     containing its parts, the chariot leaves "nothing… as a remainder; the chariot simply functions" (point 21).
+   - **Not arbitrary nominalism.** Mere naming would be "an unconstrained label"; designation is "constrained at every
+     step by what holds up under further experience. We cannot designate a shadow as a bridge and walk across it."
+   - **Tsongkhapa's three criteria.** Known to a conventional consciousness; not contradicted by another valid
+     conventional cognition; not contradicted by reasoning that analyses the ultimate. "The snake in the rope fails the
+     second test. The inherently existing rope fails the third. The rope as designated passes all three." "A sound
+     designation is one that works" (point 12).
+   - **Designated is not demoted.** "Convention is not the opposite of truth. It is where truth, in every usable
+     sense, lives."
+   - **The mere I.** The person is "merely designated in dependence on the aggregates", and "it is merely designated
+     that it can bear responsibility and also change" (point 18).
+   - **Designation is designated too.** Emptiness is "itself… a dependent designation" (point 3), and dependent
+     functioning "is itself conventionally designated, not another hidden ontological layer".
+
+   *MW Ch 24 (24.18), glossary; SW Intro ("A Working Vocabulary"), §2.6, Ch 1 (innate grasping), Ch 9, Ch 13
+   ("Designation Is Not Arbitrary Nominalism", "Criteria and Function"); AE Note on Method, The Chariot Comes Alive, The
+   Logic of the Single Stroke ("The Central Theorem"), Resonances and Open Questions; OP Ch 5, 13; Art. The Logic of
+   Dependency, Beyond Cause and Effect ("the whole status of the cause"; "never… an undesignated floor"); points 3, 12,
+   18, 21, 23.*
 
 10. **Relations are as empty as the things related.** Relation, structure, field or network does not become the new
     foundation once things are seen to depend. "Relation and relata are designated together… neither is prior, and
