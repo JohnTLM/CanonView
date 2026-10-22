@@ -126,6 +126,27 @@ Sources are abbreviated as follows.
     (2007, on Gorampa); Pettit, *Mipham's Beacon of Certainty* (1999); Duckworth (2008) and Karma Phuntsho (2005) on
     Mipham. Do not attribute either position in the books until it is confirmed (OP verification log).
 
+16. **Nirvāṇa is this same appearing with fixing ended.** It is not produced by practice and not an uncaused ground
+    that was always there (nature point 5). It is not another place or a level above the world: there is not the
+    slightest difference between saṃsāra and nirvāṇa (MMK 25.19–20). Liberation "is not a change in what exists. It is
+    a change in how what exists is held." Nothing is added and nothing is removed; what ends is proliferation, which
+    "stops in emptiness" (MMK 18.5). No one holds it: "'nirvāṇa will be mine' is great grasping", and no refined,
+    selfless self survives to enjoy it. As anything singled out, nirvāṇa is designated and empty (point 14).
+
+    *Explanation.*
+    - **Neither existent nor non-existent.** MMK 25 refuses to make nirvāṇa a thing, an absence, both or neither. The
+      canon reads this as the same refusal it makes everywhere: the question presupposes a bearer with a status of its
+      own, and none is found.
+    - **Recognised, not attained.** Freedom is recognised, not produced (nature point 8). Where the books keep the
+      verse's word "attained" (MW's rendering of 24.10), it means conventionally realised along a path, never an
+      achievement that produces freedom.
+    - **The path keeps its place.** The ultimate is taught only through convention (MMK 24.10). Practice, path and
+      fruit stay fully valid conventionally; what practice undoes is the habit of fixing, which takes clear knowing.
+    - **The taste is ordinary.** "Seen is just seen, heard is just heard": nothing needs to be produced to take the place
+      of the habit that was seen through.
+
+    *MMK 16, 18.5, 24.10, 25; MW Ch 16, 18, 25; Art. Two Modes, One Seeing §6; OP Ch 21, 23; nature points 5, 8.*
+
 ---
 
 ## Part II. Luminous clarity
