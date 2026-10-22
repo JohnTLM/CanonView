@@ -1,6 +1,7 @@
 # Rewordings: rebirth affirmed conventionally (canon point 20)
 
-Draft, 2026-10-22. Not yet applied anywhere.
+**Status: applied** on the website (live site version 70, 2026-10-22). Items 1a–1c are in the Word find-and-replace list,
+`drift-replacements-sw-ae.md`, items 5–7.
 
 Canon Part I point 20 affirms karma and rebirth conventionally: one life conditions the next, "as one flame lights
 another", with nothing carried and nothing cut off. It does not present rebirth as something emptiness proves. Two texts

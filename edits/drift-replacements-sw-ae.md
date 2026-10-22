@@ -1,6 +1,6 @@
 # Word replacements: canon drift in Substrateless World and Anatta to Emptiness
 
-These are the same changes already made on the website (live site versions 64 and 66), so the site and the Word manuscripts agree again.
+These are the same changes already made on the website (live site versions 64, 66 and 70), so the site and the Word manuscripts agree again.
 Apply each one in Word with Find and Replace (Ctrl+H). Copy the **Find** text exactly. Each one occurs once in its book.
 If Word cannot find a passage, search for its first five words, since a line break or a smart quote may differ.
 After applying, the books can be rebuilt from the Word files as usual (prog-spec section 7) without undoing the site changes.
@@ -48,6 +48,44 @@ Files: substrateless-world-v67-A4.docx and substrateless-world-v67.docx.
 **Replace with:**
 
 > Phenomena appear in such varied, dynamic and context-dependent ways because they depend, and their emptiness is not a further reason behind that: it is what their depending amounts to.
+
+### 5. Chapter 1, "Rebirth as a traveller" (rebirth, canon point 20; site version 70)
+
+**Find:**
+
+> shows that death and continuity alike are designated within a paradigm.
+
+**Replace with:**
+
+> shows that death and continuity alike are designated, not found.
+
+### 6. Chapter 8, "Death as a Conventional Designation", third paragraph (site version 70)
+
+**Find** (the whole paragraph; if Word cannot find it, search for "The same holds for continuity across death"):
+
+> The same holds for continuity across death. Whether a continuum is said to go on, and in what form, is answered within a paradigm: a physical account traces the dispersal of matter and energy; a Buddhist account traces the karmic continuity of a mental stream. Within its own framework, each account can be applied correctly or incorrectly. But neither the ending posited by the one nor the continuing posited by the other is found under ultimate analysis. On this view there is no production and no cessation other than what is conventionally designated in context; ultimately, both are empty.
+
+**Replace with:**
+
+> The same holds for continuity across death. A physical account traces the dispersal of matter and energy, and it is right about what it traces. The Buddhist account, which this book follows, traces something the physical one does not look for: the karmic continuity of a mental stream, in which one life conditions the next as one flame lights another. Each account can be applied correctly or incorrectly, by its own criteria. But neither the ending posited by the one nor the continuing posited by the other is found under ultimate analysis. On this view there is no production and no cessation other than what is conventionally designated; ultimately, both are empty.
+
+### 7. Chapter 8, "Objection: Doesn't This Evade the Question of Rebirth?" (two replacements; site version 70)
+
+**7a. Find:**
+
+> treating continuity beyond death as paradigm-relative evades
+
+**Replace with:**
+
+> treating continuity beyond death as designated rather than found evades
+
+**7b. Find:**
+
+> Within the Buddhist paradigm, karmic continuity is designated across lives and governs practice; a physical paradigm traces continuity through matter and energy. What this book claims is only what holds in every framework: whatever is designated as continuing, or as ending, is not found when sought.
+
+**Replace with:**
+
+> This does not leave rebirth in doubt. The book follows the tradition: actions bear fruit, in this life and beyond it, and one life conditions the next, as one flame lights another. That continuity is affirmed in the same way that the person who wakes is said to be the person who fell asleep: conventionally, as designated, and reliably. It is not a conclusion drawn from emptiness. Emptiness removes only the objection that rebirth would need a carrier, since nothing has ever had one. What the analysis adds holds for every account of death, Buddhist or physical: whatever is designated as continuing, or as ending, is not found when sought.
 
 ## The Transition from Anatta to Emptiness
 

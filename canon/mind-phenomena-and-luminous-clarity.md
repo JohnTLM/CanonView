@@ -448,7 +448,10 @@ Ch. 3 and Ch. 23, in the manuscript (JohnTLM/EBooks), its PDF, and on the site.
 resting in Unmodified Entirety", "two domains", "relational matrix", "fluid manifestation", "self-luminous… event",
 "completely zeroed out"). The Word manuscript needs the same changes: items A1–A9 in `edits/drift-replacements-sw-ae.md`.
 
-**Still open:** the rebirth passages in SW Ch 8 and *Death and Continuity* (added with point 20, below). The Word manuscripts of *Substrateless World* and *Anatta to Emptiness* still
+**Fixed on 2026-10-22 (live site version 70):** the rebirth passages in SW Ch 1, Ch 8 and *Death and Continuity* (point 20),
+using `edits/rebirth-rewordings.md`. The SW Word manuscript needs items 5–7 of `edits/drift-replacements-sw-ae.md`.
+
+**Still open:** none in the texts listed here. The Word manuscripts of *Substrateless World* and *Anatta to Emptiness* still
 need the replacements in `edits/drift-replacements-sw-ae.md`.
 
 **Shentong-leaning wording**
@@ -479,7 +482,7 @@ need the replacements in `edits/drift-replacements-sw-ae.md`.
 
 **Rebirth left neutral rather than affirmed (point 20)**
 
-Added 2026-10-22, not yet fixed. These passages refuse a carrier, so they do not conflict with emptiness, but they stop
+Added 2026-10-22; fixed on the site in version 70. These passages refuse a carrier, so they do not conflict with emptiness, but they stop
 short of the canon's conventional affirmation of rebirth.
 - SW Ch 8, "Doesn't This Evade the Question of Rebirth?": continuity beyond death is "paradigm-relative"; "Within the
   Buddhist paradigm, karmic continuity is designated across lives… a physical paradigm traces continuity through matter
