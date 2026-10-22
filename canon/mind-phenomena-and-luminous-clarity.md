@@ -58,6 +58,36 @@ Sources are abbreviated as follows.
    they are empty, they can arise", "established by emptiness" and "vivid because empty".
    *Canon 3, 5; Art. Across the articles, point 17.*
 
+9. **Designation is the whole status, not a label on top.** A thing and its designation arise together; the thing
+   is not there first, waiting to be named. "There is no undesignated layer on which labels are placed": something
+   is always seen as something. Calling a thing designated does not demote it. Convention is the only validity, and
+   it is full validity.
+   *SW Intro ("A Working Vocabulary"), Ch 13; AE Note on Method; Art. Beyond Cause and Effect ("the whole status of
+   the cause"; "never… an undesignated floor").*
+
+10. **Relations are as empty as the things related.** Relation, structure, field or network does not become the new
+    foundation once things are seen to depend. "Relation and relata are designated together… neither is prior, and
+    neither is a ground." Relational accounts in physics are reliable designations within their domains, not the
+    last word on what appears.
+    *SW Intro ("Two Opponents"), Ch 4; Art. Insubstantial Appearances §1.*
+
+11. **Change without a changer, continuity without a carrier.** Change and changer are designated together, and no
+    process, flow, energy or stream replaces the old subject. Continuity is designated across moments that are
+    neither the same nor wholly different: the flame at midnight is "neither the flame at dusk nor an unrelated
+    flame". The designation is the continuity, not a cover over a hidden flow.
+    *MW 18.10; SW Ch 9; Art. The Logic of Dependency; Art. Death and Continuity; OP Ch 9, 11.*
+
+12. **Function without essence.** Nothing acts from its own side, and nothing needs to. A key opens a lock only with
+    the lock, the hand and the turning: "the 'power to open' is not found apart from them". A thing with its nature
+    from its own side could not respond, combine or change.
+    *SW Ch 14; MW 24.14, 24.16–20; Art. Insubstantial Appearances §3.*
+
+13. **Empty is not flimsy.** Empty appearances are vivid and workable, "as vivid and solid in their working as
+    anything we know". Their effects are fully real: a car with no essence still injures, and grief and healing
+    still happen. Two mirrored errors are refused: that the solid must be solid from its own side, and that the
+    empty must be faint.
+    *Art. Insubstantial Appearances §2; SW §13.3; AE The Taste, Not the Argument.*
+
 ---
 
 ## Part II. Luminous clarity
