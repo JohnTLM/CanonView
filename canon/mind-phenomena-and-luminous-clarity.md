@@ -370,6 +370,44 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     Shes, Resonances and Open Questions, A Beginner's Companion; Art. The Logic of Dependency, Death and Continuity
     ("Seeing It Again and Again"); points 16, 18, 21; Part II points 5, 10, 12, 13.*
 
+23. **Thusness is dependent arising seen as it is.** Each appearance is complete in its own position, with nothing
+    behind it. Thusness is not a hidden essence, not a raw given beneath concepts, and not the one thing left over:
+    it is empty like everything else. (The books do not use "thusness", "suchness" or *tathatā* as a term; the idea
+    appears as "the way things are" (*dharmatā*, *chos nyid*), "appearing as it is", Dōgen's dharma position and
+    total exertion.)
+
+    *Explanation.*
+    - **Dependent arising with the fixing gone.** Non-dividing seeing is "appearing as it is when no fixing occurs:
+      presented whole, without a before and an after… This is what the homage calls dependent arising, seen as it is.
+      Nothing is lost by it."
+    - **Not a hidden suchness.** The standard gloss of *dharmatā* as "the intrinsic nature (*svabhāva*) of dharmas,
+      which is constant and transcends discrimination" is declined; "nature" means "the way things are, when they are
+      not reified, in a narrower sense than that gloss" (points 2–3).
+    - **Not a bare, undesignated layer.** Dharmakīrti's Given, particulars met by perception before designation, is the
+      strongest candidate for a raw "as it is", and it is refused: designation is "already in the seeing", as with the
+      duck-rabbit (point 9; Part II point 8).
+    - **Whole in its own position.** "Firewood abides in its own dharma position… before and after are cut off… Each
+      appearance is fully itself in its own position, lacking nothing, with nothing carried across." Yet "the
+      positions, too, are designated, not found", and being and time are not two (*uji*).
+    - **Completely spent, nothing behind.** "Every appearance completely spends itself in being exactly this
+      appearance. Nothing stands behind it, nothing governs it, and nothing remains outside it." "Hearing is precisely
+      the sounding."
+    - **Like nirvāṇa, not a mystical realm.** "The true nature of things (*dharmatā*), unarisen and unceasing, is like
+      nirvāṇa. This is not a mystical realm beyond the world… dependent arising itself is without arising and ceasing"
+      (MMK 18.7; point 16).
+    - **Empty too.** Named and singled out, thusness is designated like everything else (points 14–15). The
+      descriptions of total exertion are "invitations to recognize a taste rather than propositions": "No description
+      is intended as a metaphysical claim."
+    - **Ordinary, not exalted.** What is seen as it is, is the ordinary world, distinctions vivid and nothing added
+      (points 13, 21); there is no unpainted rice cake behind the painted one (point 22).
+    - **Wording to watch.** AE Total Exertion says each dharma position is "exhaustive of the entire cosmos" and that
+      "the entire cosmos is spent within the immediate relational configuration". It is Dōgen's language and the
+      chapter marks it as poetic, but read literally it suggests a cosmic whole present in each moment: the holism
+      point 21 refuses.
+
+    *OP Ch 5, Ch 16, Ch 22, glossary "Dharmatā", "Own-nature"; SW Ch 5 (Dōgen, "Firewood and ash"), glossary "Dharma
+    position"; AE The Taste of Total Exertion; MW Ch 18 (18.7); points 2, 3, 9, 13, 14, 16, 21, 22; Part II point 8.*
+
 ---
 
 ## Part II. Luminous clarity
