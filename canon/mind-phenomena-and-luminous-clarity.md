@@ -294,6 +294,42 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     ("Doesn't This Evade the Question of Rebirth?"); AE At the Edges of Science ("Ordinary Magic"); Art. The Logic of Dependency ("Continuity
     Without a Carrier"), Death and Continuity; points 11, 16, 18, 19.*
 
+21. **Non-duality is "not established as two", never "one thing".** Knower and known are designated together, each
+    identified only through the other. "Mind and world are not two things joined by a bridge, nor two sides of a single
+    process, which would be one more substrate." Non-duality is a negation of a real division, not the assertion of a
+    single substance, field or awareness in which the two are one. Distinctions remain vivid, and even the awareness in
+    which the two seemed to merge is designated and empty.
+
+    *Explanation.*
+    - **Seamless without fusion.** "Seamless" means "no seam is found… It does not mean one continuous cloth… there
+      was never a fabric of the kind that seams divide." "Sound never becomes colour, thought never becomes warmth":
+      "intimate without merging, distinct without walls".
+    - **Not holism.** Holism "usually keeps a whole that determines its parts… and so reverses the direction of priority
+      rather than removing it. The Madhyamaka removes it." The whole is designated on its parts (point 10).
+    - **Consciousness as non-dual dependent appearing.** Not a container, not a hidden producer, "not found apart from
+      its objects". "Look for the one who tastes and you find only more of the tasting", and the taste stays precise
+      and reliable (point 5).
+    - **Non-dual experience can still be substantialist.** "A substantialist non-dual experience isn't the same as a
+      non-substantialist one." It takes the openness or awareness it discloses as "a subtle, findable ground": "an
+      implicative negation wearing non-dual clothing". "Duality may collapse, while luminosity quietly assumes the role
+      once occupied by substance" (Part II points 9, 14).
+    - **The genuine non-duality includes the ground.** It is one "in which even what was taken as the ground-nature, the
+      luminosity, the awareness itself, is seen as dependently designated rather than independently findable, while
+      appearing remains vividly present" (point 14).
+    - **The last seam is the analysing itself.** "As long as there is still a 'this searching, examining this'
+      structure, one final subject-object seam remains." Prajñā completes itself as ye shes when that seam stops being
+      exempted (Part II point 10).
+    - **The same "not two" throughout.** Emptiness and appearance are two aspects of one appearance, not two levels
+      (point 7); saṃsāra and nirvāṇa are not two (point 16); clarity and emptiness are not two, "and neither is the
+      ground of the other" (Part II).
+    - **Not a possession.** "'No gap, no ground' can become a new ground: a confident description of non-duality that
+      the reader is invited to possess." The turn came when practice "no longer attempted to stabilize Presence or
+      refine non-duality" and asked whether anything, awareness included, is inherently established.
+
+    *SW Ch 4 ("Seamless Without Fusion", "Isn't This Simply Holism?"), Ch 7 ("Consciousness as Non-Dual Dependent
+    Appearing"), Ch 12; AE The Starting Point, The Taste of Total Exertion ("Seamlessness Without Fusion"), Ye Shes, A
+    Beginner's Companion; OP Ch 20; points 5, 7, 10, 14, 16; Part II points 9, 10, 14.*
+
 ---
 
 ## Part II. Luminous clarity
