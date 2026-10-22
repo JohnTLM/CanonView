@@ -245,7 +245,26 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
 5. **Spontaneous presence (*lhun grub*) is dependent arising without a producer.** It names "appearing that owes
    its completeness to nothing hidden". It is not an uncaused ground. Spontaneous presence and dependent arising are
    the same nature under two descriptions, and neither is higher.
-   *AE Note on Method, Relentless Negation; OP Ch 18.*
+
+   *Explanation.*
+   - **Two questions kept apart.** The first asks how an appearance comes about: every appearance, mental or material,
+     arises from causes and conditions, and the MMK's analysis works at that level. The second asks about the nature of
+     what appears: that nature is emptiness, which is not produced, so "why?" does not apply to it. Keeping the two
+     apart is what lets "spontaneous" and dependent arising agree. "Spontaneous" never means "uncaused source"
+     (Part I point 17).
+   - **Two descriptions, not interchangeable, neither higher.** Dependent arising is the analytic description, the
+     appearing as described while dividing is at work. Spontaneous presence is the experiential description, the same
+     appearing when the reifying habit stops: "already complete", not waiting for construction. The two are not
+     interchangeable, and neither is higher than the other.
+   - **Not an ingredient on top.** Spontaneous presence "does not name an additional ingredient sitting on top of
+     emptiness". It is "not produced by effort, and so it is not a state one gets more of by trying harder".
+   - **The subtlest hiding place.** It can become "the last and subtlest place substantialism can hide": a producer
+     granted one final exemption. Point 15's test applies.
+   - **Named as synthesis.** That the two are one nature under two descriptions is the author's reading; some lineages
+     hold Dzogchen as its own vehicle (point 11).
+
+   *AE Note on Method, Relentless Negation, Beyond Cause and Effect; OP Note on Method, Ch 18, 23; Art. Two Modes, One
+   Seeing §10; Art. Beyond Cause and Effect ("Spontaneous presence").*
 
 6. **Display has nothing behind it.** Thoughts are the display (*rtsal*), not obstacles in front of the nature of
    mind. Display "must not be heard as the display of something standing behind it… Display here means only this:
