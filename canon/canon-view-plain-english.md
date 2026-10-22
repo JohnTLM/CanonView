@@ -1,8 +1,8 @@
 # The Canon View in Plain English
 
 This is a simple version of the Canon View, the set of positions that all four books and the articles by
-John Tan (Thusness) follow. The numbers match the full Canon View, so any point here can be looked up there,
-with its quotations and sources.
+John Tan (Thusness) follow. The numbers match the full Canon View (https://claude.ai/artifact/Lqbt2KhCCNsUrxk5HoxfEa), so any point here can be looked up there,
+with its quotations and sources. Published as a doc: https://claude.ai/artifact/6BVWBq1XHuvsYydfVyawsE
 
 ## The view in one paragraph
 
