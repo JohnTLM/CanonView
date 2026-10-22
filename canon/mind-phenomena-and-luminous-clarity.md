@@ -614,8 +614,44 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
 4. **The basis is primordially pure (*ka dag*).** Following Longchenpa, the basis (*gzhi*) is called a ground
    only from a relative perspective. In the true nature of things it is empty of being a ground. It is "not a
    subtle existent thing" and not an uncaused source. Say "the basis, primordially pure", not "emptiness is the
-   ground".
-   *OP Note on Method, Ch 19; AE Resonances.*
+   ground". Primordial purity is the emptiness of appearing, named from the side of the basis: appearing never had
+   the fixing projected onto it, so nothing needs cleaning and no pristine source lies behind it. It does not mean
+   that a confused life is already free.
+
+   *Explanation.*
+   - **What the term means.** "The Dzogchen description of the basis as pure from the beginning, and a way of
+     signifying emptiness." Higgins: "a term signifying primordial purity as a way of signifying emptiness", unique to
+     Nyingma tantric literature; the Buddha-Nature site: "the empty nature of phenomena"; *Tshig mdzod chen mo*: "pure
+     from the beginning, free from stain".
+   - **The canon's reading.** "Read as the unfixed character of appearing, not as an uncaused source." "Primordially
+     pure" says that appearing was never fixed, not that a pristine something stands behind it.
+   - **Pure means never having had the stains.** "Dependent arising has never possessed the elaborations projected
+     upon it." Conventional reality is "free from elaboration from the very beginning"; it "never required liberation
+     from ontology. Only conceptual thought required liberation" (Part I point 19). The purity is not something
+     cleaned; it is the absence of what was only ever added.
+   - **Unproduced, but not an uncaused base.** Namkhai Norbu's "uncreated, ever pure, and self-perfected, not something
+     that has to be constructed" supports "unproduced" in one sense: freedom is not produced. But "this book holds that
+     freedom is not produced and is not a result of causes, but also that it is not an uncaused base. The correction is
+     to the self-description of the tradition" (Part I points 8, 17).
+   - **Not a pure state hidden under stains.** Freedom is not "a hidden state that a habit covers over" (Part I point
+     22); non-recognition is not "a hidden nature going unseen" (point 12). The traditional pure nature covered by
+     adventitious stains is read without the hidden layer: the stain is a way of holding, not a coating on something
+     beneath.
+   - **Not "a confused life is already free".** On saṃsāra and nirvāṇa: "It does not say that suffering is liberation,
+     or that a confused, grasping life is already free. It says that saṃsāra and nirvāṇa are not two places, two kinds
+     of stuff, or two worlds." Purity concerns the nature, not conduct or experience; the path remains "the removal of
+     a misreading" (Part I points 16, 22, 26).
+   - **The pair to spontaneous presence.** "Later commentators have argued at length that appearance-emptiness
+     inseparability and Dzogchen's primordial purity and spontaneous presence are identical in what they refer to,
+     however differently they are approached." *Ka dag* names the empty side, *lhun grub* the appearing side (point
+     5); their identity is presented as the author's synthesis (point 11).
+   - **Empty too.** Singled out, primordial purity is designated and empty (Part I points 14–15). "Primordially open"
+     and similar words describe how appearing already functions, not a property it has (Part I point 26). See point 15
+     for the basis as a whole.
+
+   *OP Note on Method (first and second departures), Ch 19, glossary "Primordial purity", "Basis"; AE The Last Refuge
+   of Ontology, Ye Shes, Resonances and Open Questions; MW Ch 25 (25.19–20); points 5, 11, 12, 15; Part I points 8,
+   14, 15, 16, 17, 19, 22, 26.*
 
 5. **Spontaneous presence (*lhun grub*) is dependent arising without a producer.** It names "appearing that owes
    its completeness to nothing hidden". It is not an uncaused ground. Spontaneous presence and dependent arising are
