@@ -330,6 +330,46 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     Appearing"), Ch 12; AE The Starting Point, The Taste of Total Exertion ("Seamlessness Without Fusion"), Ye Shes, A
     Beginner's Companion; OP Ch 20; points 5, 7, 10, 14, 16; Part II points 9, 10, 14.*
 
+22. **Realization is recognition, not production.** It is the recognition of appearing as already unfixed:
+    decisive, but not produced by practice, not kept as a state, and not a hidden state uncovered. "Freedom is not
+    produced, and practice does not make it. Nor is it a hidden state that a habit covers over." Recognition is "that
+    clear seeing of appearing when the fixing is not operating". It is made stable by view, deepened layer by layer,
+    and recognised again and again wherever the habit of fixing returns.
+
+    *Explanation.*
+    - **What practice does.** Practice "undo[es] the habit of fixing, which takes clear knowing", and "that undoing is
+      itself a practice". Ethics, meditation and study are "ways of arranging conditions", not attacks on fixed
+      defects; practice works because nothing is fixed (MMK 24.16–20). There is no goer apart from the going: "the
+      practitioner is the mere I, designated on the practising" (point 18).
+    - **Not an attainment to keep.** "It is not a higher stage on a path, and it is not an attainment. It is
+      recognised, and the moment one tries to keep it as an accomplishment, the fixing has returned." So too
+      "effortless": "the moment one holds it as a thing to maintain, one has left it". Recognition "does not negate.
+      It sees that appearances are already not fixed."
+    - **Seen once, recognised again and again.** The chariot gives the whole shape of the argument once; after that
+      "it does not need to be seen again for the first time. It only needs to be recognized, again and again, in every
+      place the mind had quietly assumed something had to be standing underneath." "The conviction is not reached once
+      and kept."
+    - **In layers.** "A mind runs into its own reifications one layer at a time": self, things, process, non-dual
+      presence itself (points 18, 21).
+    - **Experience and view can fall out of step.** After anatta "the experience has become non-substantialist, but
+      the conceptual framework remains substantialist", and the practitioner "often believes the realization is
+      already complete… The self has dissolved, but the universe has not" (the Great Desynchronization).
+    - **View makes it stable.** "An experience that cannot be understood cannot be stabilized, taught, or trusted under
+      pressure." "View is what lets an opening become a place to live rather than a place once visited."
+    - **But concepts are not the eating.** "Concepts are pictures of food; realization is eating." Dōgen turns it
+      over: there is no unpainted rice cake behind the painted one, so the remedy is not to discard concepts but to see
+      that nothing stands behind them. Prajñā completes itself as ye shes (Part II point 10).
+    - **An open question, held loosely.** Reasoning and direct recognition converge on one nature; whether analysis
+      alone suffices, or recognition is "usually occasioned by something outside the reasoning itself — direct
+      introduction by a qualified teacher… a discontinuous seeing", is left open.
+    - **Nothing gained, nothing lost.** Liberation "is not a change in what exists. It is a change in how what exists
+      is held" (point 16). "The bell still rings. Medicine still heals." Reality "is recognized as having always been
+      light".
+
+    *OP Ch 21, 22, 23, glossary "Recognition"; AE Preface, The Chariot Comes Alive, The Great Desynchronization, Ye
+    Shes, Resonances and Open Questions, A Beginner's Companion; Art. The Logic of Dependency, Death and Continuity
+    ("Seeing It Again and Again"); points 16, 18, 21; Part II points 5, 10, 12, 13.*
+
 ---
 
 ## Part II. Luminous clarity
