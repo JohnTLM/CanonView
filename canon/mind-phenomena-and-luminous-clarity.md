@@ -408,6 +408,42 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     *OP Ch 5, Ch 16, Ch 22, glossary "Dharmatā", "Own-nature"; SW Ch 5 (Dōgen, "Firewood and ash"), glossary "Dharma
     position"; AE The Taste of Total Exertion; MW Ch 18 (18.7); points 2, 3, 9, 13, 14, 16, 21, 22; Part II point 8.*
 
+24. **Compassion works without a self behind it, and emptiness takes nothing from it.** The teaching itself
+    arose in dependence on compassion, "for those who suffer". Kindness is felt and compassion relieves suffering with
+    no fixed self found behind either, and only an empty compassion could arise, grow and be learned. Love, sorrow and
+    care "remain exactly where they were". *How compassion relates to emptiness and realization is not yet stated in
+    the books; see "Gap" below.*
+
+    *Explanation.*
+    - **Why the teaching is given.** The MMK closes with a bow "to Gautama, who out of compassion taught the true Dharma
+      so that all views could be let go" (27.30). He taught "taking up" (*upādāya*) compassion, the word used for
+      designation in dependence (24.18): "The teaching, too, arose in dependence: on compassion, for those who suffer."
+    - **Function without essence.** "When someone we love speaks kindly, we imagine a fixed 'self' behind the words that
+      really means them… Yet the light works, and the kindness is felt, without any such ground being found." After
+      the analysis is complete, "compassion still relieve[s] suffering" (point 12).
+    - **Only an empty compassion can work.** As with action and its fruit, what had its own nature "cannot be done or
+      made"; "no one could ever act rightly or wrongly" (24.33–35; points 12, 20).
+    - **Nothing is taken from love or grief.** When neither the self nor the nothing is found, "the fear loses its
+      object, while love, sorrow and care remain exactly where they were". The view "does not make the loss of someone
+      we love painless"; pain "can be met by care". Emptiness is never indifference.
+    - **Kindness as the shared ground of the path.** "Restraint, kindness and help to others are the dharma, the seed of
+      good results now and later" (17.1–5). "Ethics and practice keep their full force."
+    - **Dzogchen's compassion named, not taken up.** OP's glossary gives the three aspects of the basis: empty essence
+      (*ngo bo*), clear nature (*rang bzhin*) and unobstructed compassion (*thugs rje*), and glosses only clarity. AE
+      lists "responsiveness" among the ways dependent arising functions, adding that these are "not positive realities
+      inferred from emptiness".
+    - **Gap: not yet stated.** The books do not say how compassion relates to realization: whether it arises of itself
+      when emptiness is seen (seeing others bound by fixing as itself a source of care); whether it is a practice of
+      its own (bodhicitta, the union of wisdom and compassion); or how *thugs rje* is to be read on this canon's terms.
+      A reading of *thugs rje* as the responsiveness of appearing, not a cosmic force, would fit points 12 and 15 and
+      Part II point 1, but it is not the books' and is not adopted here.
+    - **Wording to watch.** AE Relentless Negation says ethics, medicine and culture flourish "precisely because
+      dependent arising is empty". That uses emptiness as an explanation (point 8); "as dependent arising, which is
+      empty" would keep the sense.
+
+    *MW Ch 8, 17, 24, 27 (27.30); SW Ch 8 ("Facing Death"); AE The Last Refuge of Ontology, Relentless Negation, Ye
+    Shes; OP glossary "Clarity"; Art. The Logic of Dependency, Death and Continuity; points 8, 12, 16, 20.*
+
 ---
 
 ## Part II. Luminous clarity
