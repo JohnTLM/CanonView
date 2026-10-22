@@ -218,6 +218,40 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     Great Desynchronization; OP Ch 1, 2, 3, 21; Art. Beyond Cause and Effect ("Insubstantial self-appearing"); Udāna
     1.10 (Ṭhānissaro); points 4, 5, 11, 16; Part II points 7, 9.*
 
+19. **Elaboration stops in emptiness because what it spins around was never there.** Elaboration (*prapañca*) is
+    "the mind's spinning-out of 'is', 'is not', 'it came', 'it went' around something it takes to be there". When
+    the something is not found, "the spinning stops by itself. That stopping is called peace." Emptiness is not a new
+    object that replaces the old ones: "It is the seeing that the objects of elaboration were never there as
+    elaborated."
+
+    *Explanation.*
+    - **The root of suffering.** Liberation is the ending of action and afflictions; these come from conceptual
+      construction (*vikalpa*: "pleasant", "mine", "I am wronged"), and that comes from elaboration, which stops in
+      emptiness (MMK 18.5).
+    - **What emptiness is for.** Its purpose is to quiet elaboration (24.7, with Candrakīrti). The work opens and
+      closes on "the quieting of elaborations, peace" (homage; 25.24). Nirvāṇa is "the quieting of all
+      taking-as-objects, the quieting of elaborations" (point 16).
+    - **Even "empty" can be elaboration.** "Taken as a description of what he really is, even 'empty' becomes one
+      more elaboration" (22.11); "those who elaborate about the Buddha… are struck down by elaboration" (22.15).
+      Whatever is singled out and held as there is elaborated again (point 14).
+    - **Already free, not freed.** Freedom from elaboration (*niṣprapañca*) is not "a temporary meditative suspension
+      of conceptuality", nor the property of a non-conceptual state. It is "the very nature of dependent arising
+      itself": "Dependent arising has never possessed the elaborations projected upon it." Analysis removes the
+      projection and adds nothing.
+    - **Thought is not the elaboration.** Freedom "is not the possession of any mode of cognition". Correct conceptual
+      understanding "simply ceases to project elaboration onto that which has always been free" (Part II point 13).
+    - **A quiet mind is not the end of it.** It is a bypass when "the cessation of conceptual proliferation is
+      mistaken for the completion of wisdom". Stillness with the habit of fixing intact has not ended elaboration.
+    - **Peace is not dim.** "When elaboration stops in emptiness (18.5), nothing goes dark, and nothing new is
+      installed to shine." Reality is described by what is absent from it: own-nature, elaboration, plurality (18.9).
+    - **Wording to watch.** AE Ye Shes calls dependent arising "primordially open, non-abiding, effortless" with an
+      "inexhaustible capacity for the manifestation of appearances". The passage itself says these are "not positive
+      realities inferred from emptiness"; quoted without that clause, "openness" and "capacity" read as a ground.
+
+    *MMK homage, 11.6, 18.5, 18.7, 18.9, 22.11, 22.15, 24.7, 25.24; MW Ch 1, 11, 18, 22, 24, 25 and glossary; AE Ye
+    Shes, Relentless Negation; OP glossary "Elaboration"; Art. Two Modes, One Seeing §6; points 14, 16; Part II
+    points 8, 13.*
+
 ---
 
 ## Part II. Luminous clarity
