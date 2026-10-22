@@ -34,8 +34,43 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
    *SW Interlude ("a new substance with a quieter name"); MW 24.11, 24.18; OP Ch 14, glossary "Emptiness".*
 
 3. **Emptiness is itself empty.** It cannot become a new ground, a substrate of emptiness or a "luminous reality
-   hidden behind" appearances. Negation installs nothing positive.
-   *MW Ch 13, 24.18; OP Ch 18; SW §5.5; canon 1, 9.*
+   hidden behind" appearances. Negation installs nothing positive. Emptiness is the emptiness of things, designated
+   in dependence like them; a medicine that leaves with the illness. Held as a truth, a substrate or an ineffable
+   remainder, it becomes the one illness no further teaching can cure.
+
+   *Explanation.*
+   - **Always the emptiness of something.** It is "the absence of own-nature (*svabhāva*) in things that appear and
+     function — always the emptiness of something, never a something on its own". "Emptiness does not lie behind the
+     cup. It is the cup's not being a cup from its own side."
+   - **A dependent designation.** "It is itself empty, a dependent designation (MMK 24.18)"; "not a substance, not a
+     void and not a view; it, too, is empty".
+   - **A medicine, not a position.** "Those for whom emptiness is a view… are incurable" (13.8). Candrakīrti's purgative
+     "clears the blockage and then leaves the body too. If the medicine stays in the body, it becomes a new illness,
+     and there is no further medicine to remove it." "The test of having understood it is not having a new view, but
+     being freed from the need to hold one."
+   - **The most refined form of the habit.** "The view of emptiness is the most refined form of the habit the whole text
+     is dismantling", hence the warnings against "a hidden openness, potential or awareness behind appearances, to
+     which emptiness is quietly promoted". "Openness, too, is empty. It is not something one has. It is the absence of
+     what one was holding."
+   - **A word that does a job.** "'Empty' is not a property the Tathāgata has, in the way a stone is hard. It is a word
+     used to undo a grasp"; taken as the final description it "would turn emptiness into a new nature" (22.11; point
+     19).
+   - **Correctives are dropped too.** Not-self "is not a thing that replaces the self… Like medicine, they do their
+     work and are not kept once the illness has gone" (23.21–22; point 18).
+   - **Empty, and it still works.** To the objection that an empty statement of emptiness refutes nothing: "one
+     magically created man can stop another" (*Vigrahavyāvartanī* 23). "Empty things act on empty things, and that is
+     the only acting there is."
+   - **No level left standing.** Emptiness singled out is designated and empty (point 14); "beyond identification"
+     means nothing further to identify (point 15). The emptiness of emptiness is not a deeper emptiness but the absence
+     of any level that stays.
+   - **The same rule for dependent arising.** It "has been used only to demonstrate emptiness, never as a new ground;
+     and emptiness has been offered only as the absence of what was never there, not as something to believe in".
+     Dependent arising itself "is released from ontological privilege". The books hold themselves to it: "The book
+     has tried to leave its reader with no view in need of a cure."
+
+   *MW Ch 13 (13.8), 22 (22.11), 23 (23.21–22), 24.18; SW Interlude ("Emptiness"), §5.5, Ch 13 ("Emptiness and
+   Function"), Conclusion ("What Has Not Been Claimed"); OP Ch 18, 23; AE The Last Refuge of Ontology; Art. The Logic
+   of Dependency ("A Different Path"); Vigrahavyāvartanī 23; points 1, 9, 14, 15, 18, 19.*
 
 4. **Mind is tested like everything else and is not exempt.** A substance, a relation, a moment, a mind, a self:
    each meets the same search, and none is found standing on its own. Mind is not the ground of dependence: "Does
