@@ -96,6 +96,36 @@ Sources are abbreviated as follows.
     The sources outside the author's books cited for this point in conversation (Tsongkhapa on emptiness existing
     conventionally; Mipham's categorized and uncategorized ultimate) are unverified and are not cited here.*
 
+15. **"Beyond identification" means nothing further to identify, never an ineffable something.** When the ultimate
+    is called free of the four extremes, inexpressible or beyond concepts, this names designation and grasping coming
+    to rest, with nothing found and nothing installed. It does not name a reality that exists but escapes designation.
+    The phrase is itself a pointer, a designation, and what it points to is not an item standing outside emptiness.
+    Read the other way, as an ineffable reality that concepts merely fail to reach, it would be an ultimate exempt from
+    emptiness: implicative negation, and shentong under another name.
+
+    *Explanation.*
+    - **The two kinds of ultimate.** Some Tibetan commentators distinguish a categorized ultimate from an uncategorized
+      one. The categorized ultimate is emptiness as a non-implicative negation, an absence known by reasoning; it is
+      still held as a negation. The uncategorized ultimate is free of all four extremes, the negation included: the
+      negation released, as MMK 13.8 asks. The canon accepts the distinction in this sense only. The categorized
+      ultimate is what point 14 already covers (identified, so designated and empty), and the uncategorized ultimate
+      is not a second object but the end of holding the first.
+    - **How it relates to the rest of the canon.** The canon's theory points make the non-implicative negation the
+      view and guard it with "emptiness is itself empty" (points 2–3). The step of releasing the negation is carried by
+      the practice points: recognition is not achievement, and non-dividing seeing is appearing when no fixing occurs
+      (nature points 4, 8; luminous clarity point 8). This point names that step in the theory as well.
+    - **The test.** Any wording that leaves something real behind once all identification has stopped fails this
+      point and point 14. "Nothing unidentified is left over" is the safeguard.
+
+    *Sources to verify before citing in a book.* Gorampa (1429–1489) and Mipham (1846–1912) are read in the secondary
+    literature as holding the categorized/uncategorized distinction. Gorampa is read as dividing the two truths by the
+    apprehending mind, treating the conceivable emptiness as only nominal, and criticising Tsongkhapa for making the
+    mere negation final; Gelug critics answer that his "inexpressible" ultimate risks becoming an absolute. Mipham is
+    read as agreeing that the mere negation is not final while keeping conventional valid cognition firmly in place.
+    None of this is yet checked against primary texts. Works to check: Cabezón and Dargyay, *Freedom from Extremes*
+    (2007, on Gorampa); Pettit, *Mipham's Beacon of Certainty* (1999); Duckworth (2008) and Karma Phuntsho (2005) on
+    Mipham. Do not attribute either position in the books until it is confirmed (OP verification log).
+
 ---
 
 ## Part II. Luminous clarity
