@@ -192,6 +192,32 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     and Effect ("Two claims held together", "The fourth assumption"); Art. The Logic of Dependency ("The Eight Extremes
     Turned Over").*
 
+18. **Anatta is a genuine and thorough insight, but not the whole view.** The observer is fully seen through: no
+    seer behind seeing, no hearer behind hearing, no owner behind experience. "In reference to the seen, there will be
+    only the seen." Anatta alone does not extend that unfindability to phenomena, conditions and dependence itself.
+    Emptiness does. Until it does, the taste of no-self can sit inside a view that is still substantialist:
+    desynchronization. The canon does not call anatta "complete".
+
+    *Explanation.*
+    - **No one has disappeared.** Seeing, hearing and thinking are found, vivid and working; only a viewer standing
+      apart from them is not. "This does not mean that nobody is seeing, and it does not mean that a person has
+      disappeared." Experience is less mediated, not blank.
+    - **The person remains as the mere I.** Tsongkhapa's mere I (*nga tsam*) is designated on the aggregates,
+      identical with none of them and found nowhere apart from them, yet it remembers, acts and keeps promises
+      (MMK 18.1, 27).
+    - **Not even an egoless one.** Liberation "does not produce a refined self that has the quality of selflessness"
+      (MMK 18.3). "No-self" is itself only a designation (18.6): a corrective, medicine, not a new truth to hold.
+    - **The last refuge.** After anatta, "Presence quietly becomes the new observer… awareness itself becomes the new
+      Self". The canon refuses this (Part II point 9): awareness and presence are as empty as the self they replaced.
+    - **Appearing belongs to no one.** "Self-appearing" means only "not borrowed from another place", never possession:
+      it is "what anattā looks like when no owner is being sought".
+    - **The felt self.** *The Observer* Chapter 3 offers, as the author's own claim for inspection, that the seer-seen
+      split is felt in the body as contraction, and that contraction is felt as a self.
+
+    *MMK 18.1, 18.3, 18.6, 23, 27; SW Ch 9; AE Note on Method, The Starting Point, The Collapse of the Observer, The
+    Great Desynchronization; OP Ch 1, 2, 3, 21; Art. Beyond Cause and Effect ("Insubstantial self-appearing"); Udāna
+    1.10 (Ṭhānissaro); points 4, 5, 11, 16; Part II points 7, 9.*
+
 ---
 
 ## Part II. Luminous clarity
