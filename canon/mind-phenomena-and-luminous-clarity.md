@@ -167,7 +167,7 @@ three books are still open.
 - MW is entirely silent on luminosity.
 - OP anchors its Madhyamaka in Candrakīrti and Tsongkhapa and leaves the question between Gorampa and Mipham open.
 
-**Do not reintroduce** the claims removed in OP's verification log:
+**Do not reintroduce** the claims removed in OP's verification log. They were also removed from the bonus articles on 2026-10-22 (live site version 63), but some remain in the *Substrateless World* and *Anatta to Emptiness* manuscripts, for example Visuddhimagga XVI.90 and MMK 2.18–20.
 - "groundless ground"
 - Mipham's lamp reply, and "rigpa's luminosity is not a svabhāva"
 - Gorampa's reading of Dzogchen, or a Gorampa–Mipham "debate"
