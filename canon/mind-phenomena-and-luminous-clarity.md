@@ -286,12 +286,12 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
       construction, and that from elaboration (18.5, point 19). The same chain "can be seen in a single afternoon".
     - **Affirmed, not proven by emptiness.** Emptiness removes one objection, that rebirth needs a carrier, since
       nothing ever has one. It does not show that rebirth happens: "Removing a bad argument against something is not
-      the same as supplying a good argument for it." Whether a given case occurs is a matter of evidence (SW
-      "Ordinary Magic", Stevenson). The canon affirms rebirth as the tradition teaches it, held conventionally, not as
+      the same as supplying a good argument for it." Whether a given case occurs is a matter of evidence (AE
+      At the Edges of Science, "Ordinary Magic", Stevenson). The canon affirms rebirth as the tradition teaches it, held conventionally, not as
       a conclusion drawn from emptiness.
 
     *MMK 8.12, 17, 18.5, 21.18–21, 26, 27.11–20, 27.30; MW Ch 17, 21, 26, 27; SW Ch 1 ("Rebirth as a traveller"), Ch 8
-    ("Doesn't This Evade the Question of Rebirth?"), "Ordinary Magic"; Art. The Logic of Dependency ("Continuity
+    ("Doesn't This Evade the Question of Rebirth?"); AE At the Edges of Science ("Ordinary Magic"); Art. The Logic of Dependency ("Continuity
     Without a Carrier"), Death and Continuity; points 11, 16, 18, 19.*
 
 ---
