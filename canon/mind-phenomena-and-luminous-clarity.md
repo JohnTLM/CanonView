@@ -482,6 +482,41 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     (first and second departures), glossary "Basis", "Primordial purity"; OP Ch 23; the stance paragraph in all four
     books; points 1, 8, 14, 16, 22; Part II points 1, 2, 4, 12.*
 
+26. **Effortlessness is what appearing already is when the fixing stops, not a better effort or a state to keep.**
+    "'Spontaneous' (*lhun grub*) means already complete. It is not produced by effort, and so it is not a state one
+    gets more of by trying harder." "When the fixing stops, nothing needs to be produced to take its place." It is
+    recognised, not produced, and it does not excuse the clear knowing that undoes the habit.
+
+    *Explanation.*
+    - **A new object to keep.** "The moment one treats effortlessness as an accomplishment, one has made it another
+      fixed object." "It is recognised, and the moment one holds it as a thing to maintain, one has left it" (point 22).
+    - **Effort hardening into grasping.** Under the logic of substance "awakening is a place or condition one arrives at
+      and then keeps", and "effort tends to harden into grasping: at progress, at experiences, at the self that is
+      supposedly being improved". Wanting nirvāṇa "turns the path into a project of the self. The more earnestly it is
+      held, the tighter the hold" (16.9).
+    - **Not suppression.** Stillness forced by effort "can become a new object of holding, and the practitioner ends up
+      grasping the absence of grasping". Non-dividing seeing "is not a stillness reached by effort" (Part II point 13).
+    - **Not "do nothing".** Practice "undo[es] the habit of fixing, which takes clear knowing, and… that undoing is
+      itself a practice". Ethics, meditation and study are "ways of arranging conditions"; Candrakīrti accepts śamatha
+      conventionally, and the decisive step is analysis. "The path is not empty words. It is the removal of a
+      misreading." The books warn against using "emptiness or non-duality to excuse the actual work of recognition".
+    - **Effortless practice can still be substantialist.** The practitioner "often believes the realization is already
+      complete… practice has become effortless; what more could there be?" The answer: "the world itself has not yet
+      been thoroughly deconstructed" (point 22, the Great Desynchronization).
+    - **A description, not a property.** Dependent arising is "already open, non-abiding, effortless", but these
+      "must not be misunderstood as positive realities inferred from emptiness… they are simply the manner in which
+      dependent arising has always functioned once the false attribution of intrinsic existence has been abandoned"
+      (point 8; Part II point 5).
+    - **A by-product, reported, not a target.** As the deconstruction went on, "the mind and the body's energy began
+      opening automatically, without effort. Less attachment. Less compulsive thought."
+    - **Some effortlessness is the habit itself.** Perceptual binding is "so total and so effortless" that the mind
+      throws the result outward as an object already there. The effortlessness that matters is the absence of fixing,
+      not the absence of felt labour.
+
+    *OP Ch 16, 19, 21, 23; Art. Two Modes, One Seeing §8, The Logic of Dependency ("A Different Path: Conditions and
+    Openness"); MW Ch 16 (16.9), Ch 25; AE Preface, The Great Desynchronization, Ye Shes, The Formation of a Flower
+    ("Effortless Binding"), Space Is Also a Formation; points 8, 22; Part II points 5, 13.*
+
 ---
 
 ## Part II. Luminous clarity
