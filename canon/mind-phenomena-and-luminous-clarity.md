@@ -278,6 +278,32 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     Dzogchen's self-understanding in every lineage. Some lineages treat Dzogchen as its own resultant vehicle.
     *AE Resonances; OP Note on Method.*
 
+12. **Rigpa is the knowing of the basis, not an awareness that is the basis.** In Dzogchen, rigpa (*vidyā*,
+    "knowledge") is the knowledge of the basis, and some sources call it the pristine awareness that is the basis
+    itself. The canon takes it in the first sense only: recognising appearing as unfixed, dependent and empty. It is
+    not a witness, not a self-standing knower and not a ground. "Knowing clarity" is the books' gloss, not a
+    translation.
+
+    *Explanation.*
+    - **Its opposite.** Non-recognition (*ma rigpa*) is not a hidden nature going unseen: appearing "is taken as fixed,
+      and its unfixed, dependent character goes unrecognised. Nothing hidden is waiting behind it to be found."
+    - **Self-knowing without a second act.** Against Candrakīrti's critique of self-awareness (the blade that cannot
+      cut itself, *Madhyamakāvatāra* ch. 6), the Buddhist logicians' lamp (Dharmakīrti, Prajñākaragupta) reads
+      self-knowing as "not a second act performed on the flow of awareness"; read so, "like the flow it is empty, not
+      an independent awareness". The canon accepts this only with that last clause (point 7).
+    - **Recognised, not built up.** Recognition (*ngo shes*) is decisive and often identified with awakening. It is
+      not "a state built up through effort, or a result gained by practice", and it still takes clear knowing.
+    - **Display and self-release.** Thoughts are rigpa's display (*rtsal*), with nothing behind it; recognised as
+      unfixed, they release themselves (*rang grol*) (point 6).
+    - **Designated and empty.** Rigpa, once singled out, is designated and empty like everything else (Part I
+      points 14–15). Ye shes is prajñā completed, not a second faculty (point 10).
+    - **Not to be reintroduced** (OP verification log): Mipham's lamp reply; "rigpa's luminosity is not a svabhāva
+      because it is not an independent object"; the rtogs pa / ngo shes distinction.
+
+    *OP Note on Method (fourth departure), Ch 3, 19, 23, glossary "Rigpa", "Rang rig", "Recognition"; AE Ye Shes;
+    Art. Two Modes, One Seeing §7 and Beyond Cause and Effect (as corrected, live site version 63). On translating
+    rigpa, the OP glossary cites Ācārya Malcolm Smith.*
+
 ---
 
 ## Part III. Where the texts drift from this canon
