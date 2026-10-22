@@ -1,0 +1,14 @@
+# CanonView
+
+The canon view governing John Tan's four ebooks and bonus articles.
+
+- `canon/nature-canonical-view.md`: the nine-point governing view of "nature" (from Google Drive, `website/bonus-articles`).
+- `canon/mind-phenomena-and-luminous-clarity.md`: the canon on the nature of mind and phenomena (a rangtong reading of the MMK)
+  and on luminous clarity (Nyingma Dzogchen, with the MMK as its view), with the passages in each work that drift from it.
+- `reading-notes/`: notes taken from a full reading of each book and the bonus articles (theses, terms, rejected views,
+  teaching devices, sources, tensions, candidate canon points).
+
+Works covered: *The Logical Necessity of a Substrateless World*; *The Transition from Anatta to Emptiness*;
+*Nāgārjuna's Middle Way*; *The Observer and the Taste of Presence*; bonus articles *The Logic of Dependency*,
+*Isn't Energy the Substrate?*, *Death and Continuity*, *Dependent Designation and the Taste of Presence*,
+*Two Modes, One Seeing*, *Beyond Cause and Effect*, *Insubstantial Appearances*.
