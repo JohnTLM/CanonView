@@ -761,6 +761,51 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     Awareness"); SW Ch 8 ("The Fallacy of the 'Ontological Off-Switch'", "Sleep and Anaesthesia"), Ch 9 ("The Problem
     of the Invariant Bearer"); points 1, 7, 8, 9, 12; Part I points 4, 5, 14, 18.*
 
+15. **The basis (*gzhi*) is the emptiness of appearing, not a ground behind it.** In Dzogchen the basis is "the
+    primordial state of any sentient being, from which path and fruition are said to unfold; knowledge of it is
+    *rigpa*." The canon keeps the word and reads it as the emptiness of appearing: no foundation that appearances are
+    produced from or rest on, no hidden state waiting to be uncovered, and no uncaused source. "Where the traditional
+    language of basis is used, the book means this reinterpreted sense." Point 4 states its primordial purity; this
+    point states what the basis is and is not.
+
+    *Explanation.*
+    - **A ground only relatively.** Longchenpa "does not treat the ground as a foundation: it is called a ground only
+      from a relative perspective, and in the true nature of reality it is empty of being one." The book "rejects any
+      foundation that appearances are produced from or rest on, and reads *gzhi* as the emptiness of appearing" (point
+      4).
+    - **Not an uncaused base.** "Freedom is not produced and is not a result of causes, but also… it is not an uncaused
+      base. The correction is to the self-description of the tradition, not an interpretation of it" (Part I points 8,
+      17).
+    - **The three aspects, read on these terms.** Empty essence (*ngo bo*) is the emptiness of appearing; clear nature
+      (*rang bzhin*) is the knowing clarity of appearing itself, not a substance behind it (point 1); unobstructed
+      compassion (*thugs rje*) is not yet given a reading (Part I point 24, "Gap").
+    - **Openness is not a property of the basis.** In Dzogchen sources openness (*stong*, as in *rig stong*, *gsal
+      stong*) characterises the ground. "The book instead treats openness as the way unfixed appearing is seen, not as a
+      property of emptiness or of the ground."
+    - **Known, not uncovered.** Knowledge of the basis is rigpa, the knowing of the basis, not an awareness that is the
+      basis (point 12). Non-recognition is not "a hidden nature going unseen… Nothing hidden is waiting behind it to be
+      found." Basis, path and fruit are not a hidden state, a journey and its unveiling (Part I points 22, 25).
+    - **Where a ground comes from.** A common feature is abstracted from particulars, "the sameness of 'chariot'… or of
+      'presence' across many experiences", and then reified: "taken to exist as a thing in its own right, standing
+      beneath the particulars and grounding them… The ground was never there. It was produced by reifying a useful
+      abstraction."
+    - **Recognition stays a non-implicative negation.** "If 'the nature of each appearance' becomes a positive ground
+      beneath appearances, the disease of reification has returned in a new form." "'No gap, no ground' can become a new
+      ground" (Part I point 21).
+    - **Not the basis of designation.** The Dzogchen basis (*gzhi*) is not the basis of designation (*gdags gzhi*), the
+      parts or aggregates a thing is designated on. That basis "is itself merely designated, so that designation never
+      bottoms out in something given" (Part I point 9). Neither is a floor.
+    - **Designated and empty.** Singled out as "the basis", it is designated and empty like everything else (Part I
+      points 14–15). The "ground-nature" taken as a findable ground is "substantialist non-duality" (Part I point 21).
+      Do not reintroduce "groundless ground" (Part III).
+    - **Named as a reading.** "Some Dzogchen authors, Longchenpa among them, state that the ground is empty and not a
+      subtle existent. The book's reading draws on that statement. It does not claim that this reading is the only one
+      available within Dzogchen" (point 11).
+
+    *OP Note on Method (first, second and third departures), Ch 15 ("Where does a ground come from?"), Ch 19, Ch 20,
+    Ch 23, glossary "Basis", "Clarity", "Primordial purity"; AE Resonances and Open Questions, A Beginner's Companion;
+    SW Ch 13; points 1, 4, 11, 12; Part I points 8, 9, 14, 15, 17, 21, 22, 24, 25.*
+
 ---
 
 ## Part III. Where the texts drift from this canon
