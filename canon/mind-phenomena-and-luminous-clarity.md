@@ -135,9 +135,11 @@ book were fixed earlier.
 (Introduction, Ch. 24, Ch. 26). The changes are on the site and in the MMK ebook. The two Word manuscripts still need them:
 see `edits/drift-replacements-sw-ae.md`.
 
+**Fixed on 2026-10-22 (live site version 65):** the hidden-presence wording in *The Observer and the Taste of Presence*
+Ch. 3 and Ch. 23, in the manuscript (JohnTLM/EBooks), its PDF, and on the site.
+
 **Still open:** the *Anatta to Emptiness* Appendix ("Coreless Matrix", "resting in Unmodified Entirety", "self-luminous…
-event", "completely zeroed out"), and the hidden-presence wording in *The Observer and the Taste of Presence* Ch. 3 and
-Ch. 23.
+event", "completely zeroed out").
 
 **Shentong-leaning wording**
 
