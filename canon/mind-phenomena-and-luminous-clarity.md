@@ -252,6 +252,48 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     Shes, Relentless Negation; OP glossary "Elaboration"; Art. Two Modes, One Seeing §6; points 14, 16; Part II
     points 8, 13.*
 
+20. **Karma and rebirth are affirmed conventionally, with nothing carried and nothing cut off.** Actions bear fruit,
+    in this life and beyond it, and one life conditions the next, "as one flame lights another". Both hold as
+    designated, as everything holds. What is refused is the traveller, the self that would walk unchanged from life
+    to life, "and its shadow, the self that would be wiped out at death".
+
+    *Explanation.*
+    - **Karma works because it is empty.** Agent, action and fruit are empty, "and this is exactly why they work". A
+      karma with its own nature "could never be made, never change and never end"; it would ripen again and again
+      (17.21–25). "Only an empty karma can deliver it."
+    - **No bridge between deed and fruit.** "The link between action and result is real and reliable, as the link
+      between rice seed and rice is. It is designated across the moments, not carried by something that travels
+      through them": a melody known by heart, with no tune stored between playings (point 11).
+    - **Like a magician's creation, not like nothing.** A magically made person makes another, which really acts
+      (17.31–32). A mirage "is seen, and travellers turn toward it"; a dream "can make the dreamer weep". Karma is
+      "fully working, and nowhere found standing by itself" (17.33).
+    - **Rebirth is not a journey.** "The tradition affirms rebirth, but not as a journey. What is denied is the
+      passenger": no soul, no subtle consciousness, and no "stream of consciousness flowing on like water through a
+      series of pipes: a thing in all but name". The Buddha rebuked Sāti for holding that the same consciousness
+      wanders on (MN 38).
+    - **Neither the same nor another.** Nāgasena's lamps: the flame of the last watch is neither the flame of the
+      first nor a different one; a lamp lit from a lamp, "nothing passes over, yet the second flame is not
+      unconnected with the first" (Milindapañha).
+    - **No link found at the joint.** If the last moment has ceased, nothing connects; if not, two lives run at once;
+      if one is born exactly as the other dies, they are two (21.18–21). The continuum "is not denied as a
+      convention, but it is not found as a thing that flows".
+    - **Everything that matters is kept.** "Kind acts tend toward happiness and cruel acts toward suffering. Practice
+      changes a person. One is responsible for what one has done." The mere I "keeps its promises and meets the
+      results of what it has done" (point 18). "None of this denies past lives, future lives, or the moral weight of
+      what we do."
+    - **The maker of saṃsāra is not-knowing, not a person.** The twelve links keep karma, rebirth and the path;
+      "what is left out is only the owner" (26.9–10). Karma comes from afflictions, afflictions from conceptual
+      construction, and that from elaboration (18.5, point 19). The same chain "can be seen in a single afternoon".
+    - **Affirmed, not proven by emptiness.** Emptiness removes one objection, that rebirth needs a carrier, since
+      nothing ever has one. It does not show that rebirth happens: "Removing a bad argument against something is not
+      the same as supplying a good argument for it." Whether a given case occurs is a matter of evidence (SW
+      "Ordinary Magic", Stevenson). The canon affirms rebirth as the tradition teaches it, held conventionally, not as
+      a conclusion drawn from emptiness.
+
+    *MMK 8.12, 17, 18.5, 21.18–21, 26, 27.11–20, 27.30; MW Ch 17, 21, 26, 27; SW Ch 1 ("Rebirth as a traveller"), Ch 8
+    ("Doesn't This Evade the Question of Rebirth?"), "Ordinary Magic"; Art. The Logic of Dependency ("Continuity
+    Without a Carrier"), Death and Continuity; points 11, 16, 18, 19.*
+
 ---
 
 ## Part II. Luminous clarity
@@ -406,7 +448,7 @@ Ch. 3 and Ch. 23, in the manuscript (JohnTLM/EBooks), its PDF, and on the site.
 resting in Unmodified Entirety", "two domains", "relational matrix", "fluid manifestation", "self-luminous… event",
 "completely zeroed out"). The Word manuscript needs the same changes: items A1–A9 in `edits/drift-replacements-sw-ae.md`.
 
-**Still open:** none in the texts listed here. The Word manuscripts of *Substrateless World* and *Anatta to Emptiness* still
+**Still open:** the rebirth passages in SW Ch 8 and *Death and Continuity* (added with point 20, below). The Word manuscripts of *Substrateless World* and *Anatta to Emptiness* still
 need the replacements in `edits/drift-replacements-sw-ae.md`.
 
 **Shentong-leaning wording**
@@ -434,6 +476,17 @@ need the replacements in `edits/drift-replacements-sw-ae.md`.
 - Art. *Insubstantial Appearances* treats mind as the shaper of appearances ("the activity of the dreaming mind")
   and never says that mind is empty.
 - Art. *Death and Continuity* treats mind through luminosity alone.
+
+**Rebirth left neutral rather than affirmed (point 20)**
+
+Added 2026-10-22, not yet fixed. These passages refuse a carrier, so they do not conflict with emptiness, but they stop
+short of the canon's conventional affirmation of rebirth.
+- SW Ch 8, "Doesn't This Evade the Question of Rebirth?": continuity beyond death is "paradigm-relative"; "Within the
+  Buddhist paradigm, karmic continuity is designated across lives… a physical paradigm traces continuity through matter
+  and energy. What this book claims is only what holds in every framework."
+- Art. *Death and Continuity*: the view "does not promise that anything of the person continues as the person"; death
+  is "the ending of a set of conditions for a particular vividness". Both read as agnostic. Better: nothing continues
+  *as a carrier*, while the conditioning of one life by the next is affirmed conventionally.
 
 **Wording that hints at a hidden presence**
 - OP Ch 3 "the nature of appearing is there, and it goes unrecognised"
