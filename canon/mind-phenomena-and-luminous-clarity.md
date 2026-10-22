@@ -125,6 +125,12 @@ Sources are abbreviated as follows.
 None of the texts asserts a truly existing luminous ground or "empty of other". The following passages need
 rewording.
 
+**Fixed on 2026-10-22 (live site version 62):** every passage from the bonus articles *Death and Continuity*,
+*Insubstantial Appearances*, *Two Modes, One Seeing* and *Beyond Cause and Effect* listed below, and the same two
+passages in *The Observer and the Taste of Presence* Chapters 16 and 21. The three Appendix B glossary entries of that
+book were fixed earlier. The Drive `.md` copies of the articles still have the old wording. Passages from the other
+three books are still open.
+
 **Shentong-leaning wording**
 
 | Where | Wording | Problem |
