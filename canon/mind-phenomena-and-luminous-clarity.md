@@ -1,4 +1,4 @@
-# Canon View: The Nature of Mind and Phenomena, and Luminous Clarity
+# Canon View
 
 Governs all four books and the bonus articles, together with `nature-canonical-view.md`.
 
