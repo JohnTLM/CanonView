@@ -121,6 +121,8 @@ standing".
 
 ## 4. *The Observer and the Taste of Presence*
 
+**Status: applied** (2026-10-22) in GitHub `JohnTLM/EBooks`, branch `claude/confident-planck-tirt7e`, together with the three glossary fixes below; PDF rebuilt (90 pages).
+
 **File:** `ebook-combined.md` (Drive `website/bonus-articles/final-2026-10-22`; also GitHub `JohnTLM/EBooks`) and
 `ebook-assembled-1-front-matter-and-part-I.md`
 **Section:** Front Matter → "Note on Method"
