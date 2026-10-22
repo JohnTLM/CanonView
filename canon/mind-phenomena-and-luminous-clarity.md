@@ -323,6 +323,31 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     Art. Two Modes, One Seeing §7 and Beyond Cause and Effect (as corrected, live site version 63). On translating
     rigpa, the OP glossary cites Ācārya Malcolm Smith.*
 
+13. **Self-release: a thought frees itself because nothing stands behind it.** Thoughts are display (*rtsal*), not
+    a veil in front of the nature of mind. Recognised as unfixed, a thought releases itself as it arises (*rang
+    grol*), "like a drawing on water, which needs no eraser". Unrecognised, the same display is taken as solid and
+    binds. "The difference is never the thought. It is whether the thought is read as a thing standing on its own."
+
+    *Explanation.*
+    - **The word.** The canon says self-release (*rang grol*), not "self-liberation" (Part III).
+    - **Not suppression.** Suppression pushes thoughts down and can make a stillness that "becomes one more fixed
+      state": "grasping the absence of grasping". Self-release lets thoughts dissolve because they are not followed
+      or fixed. Madhyamaka says the same from its side: Candrakīrti accepts śamatha as a conventional means, but the
+      decisive step is analysis. Practice is not a campaign against thinking.
+    - **A stopping, not an achievement.** "In not being followed they do not become a wall." The gap between knower
+      and known is constructed, so its absence is a stopping, available wherever the construction is not running.
+    - **"Self" means no outside remedy, not a self.** No antidote is applied from outside. There is no self-standing
+      knower doing the releasing (point 7), and nothing real is set free. As with nirvāṇa (Part I point 16),
+      liberation is "not a change in what exists. It is a change in how what exists is held": the ending of the act
+      of fixing.
+    - **Empty too.** Self-release, once singled out, is designated and empty (Part I point 14). It is not a new state
+      to possess: "'No gap, no ground' can become a new ground."
+    - **Source caution** (OP verification log). Longchenpa's *Sems nyid rang grol* is cited for its theme only. No
+      passage on thoughts was confirmed in the Guenther or Thondup translations, so the description of thoughts not
+      being followed is the book's own.
+
+    *AE Ye Shes ("Thought Is Not the Veil"); OP Ch 19, Ch 20, glossary "Rang grol"; Art. Two Modes, One Seeing §6–8.*
+
 ---
 
 ## Part III. Where the texts drift from this canon
