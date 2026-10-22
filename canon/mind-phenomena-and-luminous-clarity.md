@@ -16,7 +16,7 @@ Sources are abbreviated as follows.
 
 ---
 
-## Part I. The nature of mind and phenomena
+## Part I. The view: mind, phenomena, emptiness and nirvāṇa
 
 1. **One emptiness for mind and phenomena.** Emptiness is the nature of mind and phenomena alike. There is no
    phenomenon, mental or material, that has not arisen dependently, and so none that is not empty (MMK 24.19). The
