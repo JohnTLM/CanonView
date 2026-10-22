@@ -51,6 +51,8 @@ Emptiness*) and for what each book covers.
 
 ## 3. *Nāgārjuna's Middle Way*
 
+**Status: applied** (2026-10-22) in GitHub `JohnTLM/thusness-website`, branch `claude/confident-planck-tirt7e` (committed, not yet pushed or published): 3a in `mmk/book/intro.html`, 3b in `mmk/mmk-18.html`; ebook rebuilt (320 pages).
+
 ### 3a. The stance paragraph
 
 **File:** `nagarjuna-middle-way.docx`. The book is built from the website's chapter files (`mmk/book/intro.html`
