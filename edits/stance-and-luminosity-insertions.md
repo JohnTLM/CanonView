@@ -15,6 +15,8 @@ Emptiness*) and for what each book covers.
 
 ## 1. *The Logical Necessity of a Substrateless World*
 
+**Status:** on the website since version 68 (2026-10-22); still to apply in the Word manuscript.
+
 **File:** `substrateless-world-v67-A4.docx` (and `substrateless-world-v67.docx`)
 **Section:** Introduction → "Lineage and Conversation"
 **Place:** a new paragraph after the first paragraph of that section, which ends:
@@ -32,6 +34,8 @@ Emptiness*) and for what each book covers.
 ---
 
 ## 2. *The Transition from Anatta to Emptiness*
+
+**Status:** on the website since version 68 (2026-10-22); still to apply in the Word manuscript.
 
 **File:** `anatta-to-emptiness-v24-A4.docx` (and `anatta-to-emptiness-v24.docx`)
 **Section:** "A Note on Method"
