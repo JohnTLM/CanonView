@@ -128,8 +128,16 @@ rewording.
 **Fixed on 2026-10-22 (live site version 62):** every passage from the bonus articles *Death and Continuity*,
 *Insubstantial Appearances*, *Two Modes, One Seeing* and *Beyond Cause and Effect* listed below, and the same two
 passages in *The Observer and the Taste of Presence* Chapters 16 and 21. The three Appendix B glossary entries of that
-book were fixed earlier. The Drive `.md` copies of the articles still have the old wording. Passages from the other
-three books are still open.
+book were fixed earlier.
+
+**Fixed on 2026-10-22 (live site version 64):** the listed passages in *Substrateless World* (§13.3, §13.8, §14.3, §15.6),
+*Anatta to Emptiness* (Total Exertion, Last Refuge, Ye Shes, The Taste, Companion) and *Nāgārjuna's Middle Way*
+(Introduction, Ch. 24, Ch. 26). The changes are on the site and in the MMK ebook. The two Word manuscripts still need them:
+see `edits/drift-replacements-sw-ae.md`.
+
+**Still open:** the *Anatta to Emptiness* Appendix ("Coreless Matrix", "resting in Unmodified Entirety", "self-luminous…
+event", "completely zeroed out"), and the hidden-presence wording in *The Observer and the Taste of Presence* Ch. 3 and
+Ch. 23.
 
 **Shentong-leaning wording**
 

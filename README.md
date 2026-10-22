@@ -6,6 +6,7 @@ The canon view governing John Tan's four ebooks and bonus articles.
 - `canon/mind-phenomena-and-luminous-clarity.md`: the canon on the nature of mind and phenomena (a rangtong reading of the MMK)
   and on luminous clarity (Nyingma Dzogchen, with the MMK as its view), with the passages in each work that drift from it.
 - `edits/stance-and-luminosity-insertions.md`: ready-to-apply insertions, with the exact place in each manuscript: the stance paragraph for each book, and a new luminosity section for Chapter 18 of *Nāgārjuna's Middle Way*.
+- `edits/drift-replacements-sw-ae.md`: find-and-replace list to bring the *Substrateless World* and *Anatta to Emptiness* Word manuscripts in line with the site.
 - `reading-notes/`: notes taken from a full reading of each book and the bonus articles (theses, terms, rejected views,
   teaching devices, sources, tensions, candidate canon points).
 
