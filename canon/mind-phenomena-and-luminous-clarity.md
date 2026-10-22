@@ -54,8 +54,26 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
 
 7. **Two truths, one appearance.** The two truths are two aspects of one appearance, not two levels. What is
    vivid and functional conventionally is unfindable ultimately. Conventional functioning is full validity, not a
-   veneer.
-   *SW §5, §7.4; MW 24.8–10; canon 7.*
+   veneer. Ultimate truth is "not a higher world, but the emptiness of the conventional one".
+
+   *Explanation.*
+   - **Non-dimensional.** There is no deeper level beneath appearances (no backstage, substrate or ground) and no
+     higher level above them. The two truths are "non-dimensional".
+   - **Conventional truth has standards.** Tsongkhapa's three criteria sort sound conventions from mistaken ones:
+     known to ordinary cognition, not overturned by further ordinary cognition, and not contradicted by analysis of the
+     ultimate. The snake in the rope fails the second; the inherently existing rope fails the third; the rope as
+     designated passes all three.
+   - **Each needs the other.** Without relying on the conventional, the ultimate cannot be taught (MMK 24.10). Taken
+     apart, each becomes a fixed object: the conventional turns into solid things really causing one another, and the
+     ultimate into an empty ground behind them. Joined, they dissolve each other's solidity.
+   - **Speaking positively without a ground.** Mipham's second model, concordant and discordant experience, lets
+     vividness be affirmed without being made a ground: "'authentic' names a way of meeting appearance, not a luminous
+     reality hidden behind it".
+   - **Wording.** "Ultimately" used as an adverb ("unfindable ultimately") is conventional usage and names no level.
+     The ultimate, once singled out, is itself designated (points 14–15).
+
+   *SW §5 (incl. §5.5), §7.4; MW 24.8–10; OP Ch 13, glossary "Ultimate truth"; Art. The Logic of Dependency
+   ("Conventional, Not 'Merely' Conventional"); Art. Two Modes, One Seeing §11; nature point 7.*
 
 8. **Emptiness enables nothing and explains nothing.** Emptiness is what dependent arising amounts to when
    examined. It is not a condition of possibility, a producer or an establisher. Avoid phrasings such as "because
