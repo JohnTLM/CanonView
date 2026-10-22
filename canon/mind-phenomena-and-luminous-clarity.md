@@ -22,7 +22,7 @@ Phenomena (*dharma*) are whatever can be singled out, mental or material; mind i
 canon keeps the pairing "mind and phenomena", it quotes a source (the nature of mind, *sems nyid*, beside the nature
 of phenomena, *chos nyid*) and marks mind as included, never as set apart.
 
-1. **One emptiness for all phenomena, mind included.** Emptiness is the nature of mind and phenomena alike. There is no
+1. **One emptiness for all phenomena, mind included.** Emptiness is "the nature of mind and phenomena alike" (*Two Modes*, §10). There is no
    phenomenon, mental or material, that has not arisen dependently, and so none that is not empty (MMK 24.19). The
    nature of mind is not a second or special emptiness.
    *SW §2.5; OP Ch 18 ("it is not confined to mind"); MW 24.19 ("every cup, thought and breath"); Art.
