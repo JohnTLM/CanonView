@@ -444,6 +444,44 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     *MW Ch 8, 17, 24, 27 (27.30); SW Ch 8 ("Facing Death"); AE The Last Refuge of Ontology, Relentless Negation, Ye
     Shes; OP glossary "Clarity"; Art. The Logic of Dependency, Death and Continuity; points 8, 12, 16, 20.*
 
+25. **Buddha nature is not a hidden, already-perfect awareness.** It is the empty, knowing clarity of appearing,
+    recognised rather than uncovered, and empty like everything else. The shentong reading, an ultimate "empty of
+    other" things but not of its own nature and complete with its qualities, is exactly what the stance refuses.
+    (The books do not use "Buddha nature", *tathāgatagarbha* or *sugatagarbha* as a term; this point states what the
+    texts say on the nearest terms and what the stance implies. *The open questions are marked "Gap" below.*)
+
+    *Explanation.*
+    - **The luminous mind, read without a ground.** For "luminous, monks, is this mind" (AN 1.51–52) and "awareness as
+      the nature of mind", the book "denies only one reading": taken as "an awareness that exists from its own side…
+      it is one more ground". Read otherwise, luminosity says only "that appearing is vivid and unobstructed… and it is
+      as empty as everything else" (Part II points 1–2).
+    - **The basis is a ground only relatively.** Longchenpa: "a ground only from a relative perspective, empty of being
+      a ground in the true nature of reality. This book follows that line"; the basis (*gzhi*) is "the emptiness of
+      appearing, not… a ground behind it" (Part II point 4).
+    - **"Primordially pure" is not an uncaused source.** "Freedom is not produced and is not a result of causes, but
+      also… it is not an uncaused base. The correction is to the self-description of the tradition."
+    - **Nothing hidden waiting to be uncovered.** Freedom is not "a hidden state that a habit covers over" (point 22);
+      non-recognition is not "a hidden nature going unseen… Nothing hidden is waiting behind it to be found" (Part II
+      point 12).
+    - **Mipham's second model, through Duckworth.** "Authentic" experience is the same appearance met without
+      reification, which "allows the vividness to be spoken of positively without being made into a positive ground…
+      'authentic' names a way of meeting appearance, not a luminous reality hidden behind it."
+    - **What the stance implies.** Buddha nature, on this canon, is the emptiness of mind and phenomena (point 1), met as
+      the knowing clarity of appearing (Part II point 1), recognised (point 22), and, once singled out, designated and
+      empty (point 14).
+    - **A trap in the usual rangtong reading.** "Buddhahood is possible because the mind is empty" lets emptiness enable
+      something, which point 8 refuses. The canon keeps MMK 24's form instead: if mind had its own nature it could never
+      change, so change and the path make sense only for what has none. That is a reductio, not emptiness as a cause.
+    - **Gap: not yet stated.** The books take no position on the qualities of a buddha (innate and only uncovered, as
+      in the *Ratnagotravibhāga*, or not); on what "beings are already buddhas" claims (a claim about nature, as with
+      saṃsāra and nirvāṇa not two, point 16, or about potential); or on Mipham's Buddha nature as the unity of clarity
+      and emptiness, which is close to Part II but not worked out against it.
+
+    *SW Ch 5 ("Appearance Demonstrates Emptiness: The Coldness of Ice"; Duckworth, Mipam on Buddha-Nature, 2008, and
+    "Two Models of the Two Truths", 2010), Ch 7 (§7.10, "Objection: What of the Luminous Mind?"); OP Note on Method
+    (first and second departures), glossary "Basis", "Primordial purity"; OP Ch 23; the stance paragraph in all four
+    books; points 1, 8, 14, 16, 22; Part II points 1, 2, 4, 12.*
+
 ---
 
 ## Part II. Luminous clarity
