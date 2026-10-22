@@ -138,8 +138,12 @@ see `edits/drift-replacements-sw-ae.md`.
 **Fixed on 2026-10-22 (live site version 65):** the hidden-presence wording in *The Observer and the Taste of Presence*
 Ch. 3 and Ch. 23, in the manuscript (JohnTLM/EBooks), its PDF, and on the site.
 
-**Still open:** the *Anatta to Emptiness* Appendix ("Coreless Matrix", "resting in Unmodified Entirety", "self-luminous…
-event", "completely zeroed out").
+**Fixed on 2026-10-22 (live site version 66):** the *Anatta to Emptiness* Appendix ("Coreless Matrix", "ultimate state…
+resting in Unmodified Entirety", "two domains", "relational matrix", "fluid manifestation", "self-luminous… event",
+"completely zeroed out"). The Word manuscript needs the same changes: items A1–A9 in `edits/drift-replacements-sw-ae.md`.
+
+**Still open:** none in the texts listed here. The Word manuscripts of *Substrateless World* and *Anatta to Emptiness* still
+need the replacements in `edits/drift-replacements-sw-ae.md`.
 
 **Shentong-leaning wording**
 

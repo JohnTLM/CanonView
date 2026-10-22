@@ -1,6 +1,6 @@
 # Word replacements: canon drift in Substrateless World and Anatta to Emptiness
 
-These are the same changes already made on the website (live site version 64), so the site and the Word manuscripts agree again.
+These are the same changes already made on the website (live site versions 64 and 66), so the site and the Word manuscripts agree again.
 Apply each one in Word with Find and Replace (Ctrl+H). Copy the **Find** text exactly. Each one occurs once in its book.
 If Word cannot find a passage, search for its first five words, since a line break or a smart quote may differ.
 After applying, the books can be rebuilt from the Word files as usual (prog-spec section 7) without undoing the site changes.
@@ -122,6 +122,100 @@ Files: anatta-to-emptiness-v24-A4.docx and anatta-to-emptiness-v24.docx.
 **Replace with:**
 
 > a non-duality in which even what was taken as the ground-nature, the luminosity, the awareness itself, is seen as dependently designated rather than independently findable, while appearing remains vividly present.
+
+## The Transition from Anatta to Emptiness: Appendix
+
+Files: anatta-to-emptiness-v24-A4.docx and anatta-to-emptiness-v24.docx. Live on the site since version 66.
+
+### A1. Appendix: From Rheomode to Relation, heading
+
+**Find:**
+
+> The Eleven Axioms of the Coreless Matrix
+
+**Replace with:**
+
+> The Eleven Axioms of the Coreless Notation
+
+### A2. Appendix: From Rheomode to Relation, Synthesis 1
+
+**Find:**
+
+> Because reality is empty of a core, it arises seamlessly as a relational matrix through Relational Co-Emergence (~>) and Specific Conditionality (::).
+
+**Replace with:**
+
+> Reality is empty of a core and arises seamlessly through Relational Co-Emergence (~>) and Specific Conditionality (::), with no matrix beneath it.
+
+### A3. Appendix: From Rheomode to Relation, Synthesis 2
+
+**Find:**
+
+> Conversely, the ultimate state is entirely devoid of an inherent core, defined by Spontaneous Expression ([~]) and resting in Unmodified Entirety ({O}). The Invalidation Protocol (=!=) structurally forbids any independent essence from separating these two domains.
+
+**Replace with:**
+
+> The ultimate is not a second state: it is the same conventional world seen as devoid of an inherent core, written with Spontaneous Expression ([~]) and Unmodified Entirety ({O}). The Invalidation Protocol (=!=) forbids any independent essence from separating the two truths into two domains.
+
+### A4. Appendix: From Rheomode to Relation, Axiom 3
+
+**Find:**
+
+> meaning the individual is the fluid manifestation itself.
+
+**Replace with:**
+
+> meaning the individual is designated on the manifestation itself, not a fluid substance running through it.
+
+### A5. Appendix: From Rheomode to Relation, Axiom 3, table
+
+**Find:**
+
+> the artificial gap between subject and object is collapsed into the fluid manifestation itself.
+
+**Replace with:**
+
+> the artificial gap between subject and object falls away, and no fluid substrate replaces it.
+
+### A6. Appendix: From Rheomode to Relation, Axiom 4
+
+**Find:**
+
+> This axiom resolves the system to a non-referential state. It marks only the absence of essence—not a positive perfection state—where
+
+**Replace with:**
+
+> This axiom names no state the system resolves into. It marks only the absence of essence, not a positive perfection, at the point where
+
+### A7. Appendix: From Rheomode to Relation, Axiom 5
+
+**Find:**
+
+> is rendered structurally invalid and completely zeroed out.
+
+**Replace with:**
+
+> is rendered structurally invalid: it is struck out, and nothing is put in its place.
+
+### A8. Appendix: From Rheomode to Relation, Axiom 5, table
+
+**Find:**
+
+> The operator of absolute structural negation; any mathematical assumption implying an independent building block or baseline vacuum is completely zeroed out.
+
+**Replace with:**
+
+> The operator of non-implicative negation; any mathematical assumption implying an independent building block or baseline vacuum is struck out, and nothing is put in its place.
+
+### A9. Appendix: From Rheomode to Relation, Axiom 7, table
+
+**Find:**
+
+> Tracks appearance as a self-luminous, translucent wireframe event functioning perfectly without requiring background infrastructure or a staging container.
+
+**Replace with:**
+
+> Tracks appearance as a vivid, translucent wireframe event, its clarity being the appearing itself, functioning perfectly without background infrastructure or a staging container.
 
 ## Nāgārjuna's Middle Way
 
