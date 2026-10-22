@@ -88,6 +88,14 @@ Sources are abbreviated as follows.
     empty must be faint.
     *Art. Insubstantial Appearances §2; SW §13.3; AE The Taste, Not the Argument.*
 
+14. **Nothing singled out is exempt.** Whatever can be identified, characterized or singled out in any way, by
+    perception, by concept or as "the ultimate", is dependently designated, so it exists only conventionally and is
+    empty: luminosity, emptiness and nirvāṇa included. These verbs all name one act, picking out as this rather than
+    that. Nothing unidentified is left over beyond it, which would be implicative negation returning.
+    *MMK 5 (characteristic and characterized), 13.8, 22.11, 24.18–19, 25.19–20; SW Intro ("A Working Vocabulary").
+    The sources outside the author's books cited for this point in conversation (Tsongkhapa on emptiness existing
+    conventionally; Mipham's categorized and uncategorized ultimate) are unverified and are not cited here.*
+
 ---
 
 ## Part II. Luminous clarity
