@@ -614,9 +614,11 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
 4. **The basis is primordially pure (*ka dag*).** Following Longchenpa, the basis (*gzhi*) is called a ground
    only from a relative perspective. In the true nature of things it is empty of being a ground. It is "not a
    subtle existent thing" and not an uncaused source. Say "the basis, primordially pure", not "emptiness is the
-   ground". Primordial purity is the emptiness of appearing, named from the side of the basis: appearing never had
-   the fixing projected onto it, so nothing needs cleaning and no pristine source lies behind it. It does not mean
-   that a confused life is already free.
+   ground". **Primordial purity is: from timeless beginning, purified of inherentness.** "From timeless beginning"
+   means there was never a time when appearing had inherent existence; so "purified" names no cleaning that happened
+   at some point, only the absence of what was never there. It is the emptiness of appearing, named from the side of
+   the basis: nothing needs cleaning and no pristine source lies behind it. It does not mean that a confused life is
+   already free.
 
    *Explanation.*
    - **What the term means.** "The Dzogchen description of the basis as pure from the beginning, and a way of
