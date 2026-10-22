@@ -424,6 +424,44 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
 
     *AE Ye Shes ("Thought Is Not the Veil"); OP Ch 19, Ch 20, glossary "Rang grol"; Art. Two Modes, One Seeing §6–8.*
 
+14. **There is no background awareness: clarity is the appearing itself.** "The sound does not need a listener
+    behind it in order to be clear. The visible does not require a background awareness in order to be vivid. The
+    clarity is the manifesting itself, not something it possesses." The taste of presence is genuine; making it the
+    Self, the ground or an ever-present witness is the subtlest form of the same fixing. (The books do not use the
+    phrase "I AM"; they treat it as the witness, the observer, Presence and background awareness.)
+
+    *Explanation.*
+    - **The witness is looked for and not found.** "You will find a tree and a seeing. You will not find a viewer
+      standing apart from both." Even "the sense of a someone who hears… is itself something that appears… It is not
+      the hearer."
+    - **Nobody has disappeared.** "This does not mean that nobody is seeing, and it does not mean that a person has
+      disappeared… The one who sees is not found apart from the seeing." The person remains as the mere I (Part I
+      point 18).
+    - **No blank either.** When the witness is not found, "experience does not go blank… The tree is more vivid, not
+      less." What goes is the distance, not the vividness (point 8).
+    - **The taste is real; the reification is the error.** Pure awareness, luminous presence, mirror-like clarity and
+      boundless consciousness are "neither mistaken nor fabricated". But "the observer may disappear, while Presence
+      quietly becomes the new observer… The centre has disappeared, yet the background remains", and it is hard to
+      see "because it feels so complete" (point 9).
+    - **The decisive question.** "Does Presence itself inherently exist? … If the self can be examined, why not
+      awareness? … If inherent existence cannot be granted to the individual, on what basis should it be granted to
+      consciousness itself?" (Part I points 4, 14).
+    - **Not an invariant that switches on and off.** Deep sleep and anaesthesia are "quieter configurations of
+      appearance", not an awareness "turned off". "If an entity were truly invariant and unconditioned, it could not
+      interact with, perceive, or be affected by changing conditions."
+    - **Not a ground or a witness under another name.** Luminosity is "not a light behind appearances, nor an awareness
+      standing apart to illuminate them" (point 1). Rigpa is the knowing of the basis, not an awareness that is the
+      basis (point 12). "If the witness is a separate subject standing behind experience, it becomes one more
+      *svabhāva*" (point 7). Knower and known are designated together (Part I point 5).
+    - **Losing the background is not yet the whole view.** In total exertion "the phenomenology is authentic, but the
+      interpretation remains substantialist": the background can return as one "field of luminous immediacy", as
+      process or as a seamless whole. It ends when emptiness extends the same unfindability to appearances,
+      conditions and dependence itself (Part I point 18).
+
+    *OP Ch 1, Ch 2, Ch 21; AE The Starting Point, The Taste of Total Exertion ("Luminous Clarity Without Background
+    Awareness"); SW Ch 8 ("The Fallacy of the 'Ontological Off-Switch'", "Sleep and Anaesthesia"), Ch 9 ("The Problem
+    of the Invariant Bearer"); points 1, 7, 8, 9, 12; Part I points 4, 5, 14, 18.*
+
 ---
 
 ## Part III. Where the texts drift from this canon
