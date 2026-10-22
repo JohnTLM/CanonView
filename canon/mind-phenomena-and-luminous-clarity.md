@@ -16,9 +16,13 @@ Sources are abbreviated as follows.
 
 ---
 
-## Part I. The view: mind, phenomena, emptiness and nirvāṇa
+## Part I. The view: phenomena, mind included, emptiness and nirvāṇa
 
-1. **One emptiness for mind and phenomena.** Emptiness is the nature of mind and phenomena alike. There is no
+Phenomena (*dharma*) are whatever can be singled out, mental or material; mind is one of them (point 14). Where the
+canon keeps the pairing "mind and phenomena", it quotes a source (the nature of mind, *sems nyid*, beside the nature
+of phenomena, *chos nyid*) and marks mind as included, never as set apart.
+
+1. **One emptiness for all phenomena, mind included.** Emptiness is the nature of mind and phenomena alike. There is no
    phenomenon, mental or material, that has not arisen dependently, and so none that is not empty (MMK 24.19). The
    nature of mind is not a second or special emptiness.
    *SW §2.5; OP Ch 18 ("it is not confined to mind"); MW 24.19 ("every cup, thought and breath"); Art.
