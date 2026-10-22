@@ -151,6 +151,29 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
 
     *MMK 16, 18.5, 24.10, 25; MW Ch 16, 18, 25; Art. Two Modes, One Seeing §6; OP Ch 21, 23; nature points 5, 8.*
 
+17. **Dependent arising: alignment without a producer, and no last "why".** "Cause" has three senses, and only one is
+    refused. Intrinsic production, a cause that exists on its own and delivers an effect, is rejected (MMK 1.1).
+    Conditional alignment, factors that let a result appear when assembled, holds conventionally and does real work.
+    "Cause" as a designated relatum, the element attention picks out when it sequences a process, keeps alignment from
+    sliding back into production: the designation "is the whole status of the cause". The demand for why appearances
+    spring forth at all is the last reification. It is not answered by a spontaneous ground; it loses its object and
+    stops applying. "No why and because" marks that point and does not contradict dependent arising.
+
+    *Explanation.*
+    - **One fact, two sides.** Dependent arising and emptiness are one fact, seen from the side of convention and from
+      the side of analysis (MMK 24.18; point 8). The eight negations describe dependent arising itself: "If a sprout
+      could be found arising from its seed, it would have an arising of its own, and it would not need to depend."
+    - **Dependent arising dismantles itself.** "Dependence, too, is designated." Dependent arising is not a final truth
+      standing on its own side, and it does not become a network or field beneath things (point 10).
+    - **"Beyond cause and effect".** The phrase sets aside only the first sense of cause. It is not a place where causes
+      do not operate, and "spontaneous" (*lhun grub*) never means "uncaused source" (Part II point 5).
+    - **The conventional account stands.** The twelve links describe how suffering runs while ignorance is present and
+      ends when ignorance ends (MMK 26).
+
+    *MMK 1.1, 24.18, 26; SW Thesis in Brief; AE The Last Refuge of Ontology; MW Ch 1, 26; OP Ch 17; Art. Beyond Cause
+    and Effect ("Two claims held together", "The fourth assumption"); Art. The Logic of Dependency ("The Eight Extremes
+    Turned Over").*
+
 ---
 
 ## Part II. Luminous clarity
