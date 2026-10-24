@@ -2,7 +2,7 @@
 
 Bonus article *The Illusion of the Given: Madhyamaka, Non-Foundational Dzogchen, and the Dissolution of the Referent*
 (v3, 12 pages, with citation corrections). Published files: EBooks repo, `intersubjectivity-and-dependent-arising/`
-(v3 merged in EBooks#11; citation corrections in EBooks#12 and EBooks#13).
+(v3 merged in EBooks#11; citation corrections in EBooks#12, #13 and #14).
 
 This file tracks every citation in the article and its verification status, following the practice of the OP
 verification log. **Status** is one of:
@@ -44,9 +44,12 @@ Section numbers are those of v3.
 |---|---|---|
 | Tsongkhapa's three criteria of conventional existence | §2B, §6 (via canon point 27) | Confirmed (series): OP Ch 13 notes and verification log |
 | Eight Difficult Points (*dka' gnas brgyad*, also *dka' gnad*): rejection of *rang rig* even conventionally | §4C | Confirmed (secondary): Williams, *The Reflexive Nature of Awareness*; Doctor, JIABS. The notes are rGyal tshab's record of Tsongkhapa's teaching |
-| Gelug negation of an intrinsically established common basis (*gzhi mthun rang bzhin gyis grub pa*) | Introduction, §2C | Not confirmed: no source found for this debate. Kept as the article's framing; find a citation before a book uses it. Lead: JIP 2023 article on Jamyang Shepa's reading of Candrakīrti (link.springer.com/article/10.1007/s10781-023-09547-3) |
-| Nominal observed basis (*dmigs gzhi tsam* / *snang gzhi tsam*) | §2C, §6C | Not confirmed: as above |
+| Negation of an intrinsically established common basis (*gzhi mthun rang bzhin gyis grub pa*) | Introduction, §2C | Not confirmed as a Gelug formula after a targeted search (Hopkins, Napper, Newland, Jinpa, Duckworth, Karma Phuntsho, *Moonshadows*, Thakchoe; search excerpts only). The article now presents the terms as its own analytic terms, drawn "in the spirit of Tsongkhapa's reading" (EBooks#14) |
+| Nominal observed basis (*dmigs gzhi tsam* / *snang gzhi tsam*) | §2C, §6C | Not confirmed as a Gelug term for this debate; marked in the article as its own analytic term |
 | Jamyang Shepa and Panchen Sonam Drakpa on the one bowl | §2C | Not confirmed; removed from the article |
+| Tsongkhapa, *Illuminating the Intent* (tr. Jinpa, Wisdom 2021), on MA 6.71: the preta's perception of pus as a karmically conditioned conventional perception | §2C | Confirmed (secondary), in substance: Wisdom's sample of chapter 13; the exact wording not seen |
+| Dorji Wangchuk, "A Relativity Theory of the Purity and Validity of Perception in Indo-Tibetan Buddhism", in Franco and Eigner (eds.), *Yogic Perception, Meditation, and Altered States of Consciousness* (Vienna: ÖAW, 2009), 215–237 | §2C | Confirmed (secondary) as a study of how beings of different realms perceive "a common entity" such as water; centres on Mipham |
+| Jacob Fisher, *Nectar, Water, or Blood? A Buddhist History of Perceptual Relativism* (DPhil thesis, Oxford, 2025); also "Different moon same finger?", JIABS 46 | §2C | Confirmed (secondary) as a study of the example ending with Tsongkhapa's "highly controversial interpretation" (Oxford talk abstract). The thesis text was not seen; read its Tsongkhapa chapter to settle the Gelug position |
 | The *rlan gsher* ("wet-and-moist") debate | §1 | Not found as a Gelug debate; the article now introduces it as the Abhidharma mark of the water element (*rlan zhing gsher ba*). That characterisation is standard but still to verify against the *Abhidharmakośa* |
 | Object of knowledge as "suitable to be an object of awareness" (*blo yul du bya rung ba*) | §6 (via canon point 27) | Confirmed (secondary): Encyclopedia of Buddhism, "Jñeya" |
 
@@ -95,7 +98,8 @@ Section numbers are those of v3.
 ## Notes
 - All citations were checked on 2026-10-24 against secondary sources (search excerpts; full pages could not be
   opened). Corrections were applied in EBooks#12 and EBooks#13. Read the primary passages before a book cites them.
-- Still open: the Gelug common-basis framing (*gzhi mthun* / *dmigs gzhi tsam*) has no source yet; Māmakī in the
+- Still open: the Gelug common-basis framing has no source; the article now presents those terms as its own (EBooks#14).
+  To settle Tsongkhapa's position, read Fisher's thesis chapter on Tsongkhapa and Jinpa's translation at MA 6.71; Māmakī in the
   one-water example is uncited; *rlan zhing gsher ba* as the mark of water, the Hacker–Schulte §242 wording and Silk's
   *Viṃśikā* numbering are to verify.
 - Verse numbers of the *Madhyamakāvatāra* follow La Vallée Poussin; some translations number one lower.
