@@ -596,25 +596,20 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     ("Effortless Binding"), Space Is Also a Formation; points 8, 22; Part II points 5, 13.*
 
 27. **Conventional existence does not wait on a present act of designating.** Conventional existence is established
-    by convention, not by any one mind's present act. What the world acknowledges, and what passes Tsongkhapa's three
-    criteria, exists conventionally. What no one is currently registering is not thereby erased from conventional
-    existence: the pot in the empty room, the mountain before anyone names it. Under analysis, neither the continuum
+    by convention, not by any one mind's present act. Following Candrakīrti, what the world acknowledges
+    (*lokaprasiddha*) and what passes Tsongkhapa's three criteria exists conventionally. Gelug defines an object of
+    knowledge as "that which is suitable to be an object of awareness" (*blo'i yul du bya rung ba*): a capacity, not an
+    occurrence. So what no one is currently registering is not erased from conventional existence: the pot in the empty
+    room, or the mountain before anyone names it (Book 2). To say "it did not exist" because no one was designating it
+    is annihilationism. To say "it persisted by itself" is eternalism (MMK 15.10). Under analysis, neither the continuum
     nor the one who designates it is found, and not being found under analysis is not the same as not existing
     conventionally.
 
     *Explanation.*
-    - **Both extremes are refused.** "It persisted by itself" is eternalism; "it did not exist, because no one was
-      designating it" is annihilationism. MMK 15.10: "'It exists' is grasping at permanence; 'it does not exist' is the
-      view of annihilation." A secret continuum flowing through deep sleep is the first extreme. "No continuum existed"
-      is the second.
-    - **Convention is what the world acknowledges.** Candrakīrti grounds conventional truth in what the world
-      acknowledges (*lokaprasiddha*), accepted as long as it is not analysed. The world says "she was under for three
-      hours". It is known to conventional cognition (the surgeon, the clock), no other conventional cognition
-      contradicts it, and analysis of the ultimate does not undermine it, since it never claimed to be more than a
-      convention (point 7).
-    - **A capacity, not an occurrence.** The Gelug debate manuals define an object of knowledge (*shes bya*) as "that
-      which is suitable to be an object of awareness" (*blo'i yul du bya rung ba*). *Rung ba* means "suitable", "able to
-      be", not "currently being known".
+    - **The anaesthesia case.** The world says "she was under for three hours". It is known to conventional cognition
+      (the surgeon, the clock), no other conventional cognition contradicts it, and analysis of the ultimate does not
+      undermine it, since it never claimed to be more than a convention (point 7). A secret continuum flowing through
+      the sleep is the eternalist extreme; "no continuum existed" is the annihilationist one.
     - **Appearing is not existing.** Under anaesthesia no continuum *appears* to that stream, and none is found under
       analysis. That is the phenomenology, and it is right. It does not license "the continuum did not exist".
     - **Designation is not the new carrier.** If things existed only while some mind was designating them, the act of
