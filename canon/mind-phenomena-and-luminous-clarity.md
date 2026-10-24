@@ -907,6 +907,9 @@ resting in Unmodified Entirety", "two domains", "relational matrix", "fluid mani
 **Fixed on 2026-10-22 (live site version 70):** the rebirth passages in SW Ch 1, Ch 8 and *Death and Continuity* (point 20),
 using `edits/rebirth-rewordings.md`. The SW Word manuscript needs items 5–7 of `edits/drift-replacements-sw-ae.md`.
 
+**Fixed on 2026-10-24:** the four passages in *The Architecture of Carrierless Continuity* that conflicted with
+point 27, together with its luminosity, plasticity and rebirth wording, in the author's revised draft.
+
 **Still open:** none in the texts listed here. The Word manuscripts of *Substrateless World* and *Anatta to Emptiness* still
 need the replacements in `edits/drift-replacements-sw-ae.md`.
 
@@ -949,7 +952,7 @@ short of the canon's conventional affirmation of rebirth.
 
 **Continuity said not to exist when no one designates it (Part I point 27)**
 
-Added 2026-10-24. Still open.
+Added 2026-10-24; fixed on 2026-10-24 in the revised draft.
 - Art. *The Architecture of Carrierless Continuity*, executive summary, finding 2: "When Designation Suspends,
   Continuity Vanishes". Better: "When Designation Suspends, No Continuum Appears", adding that the continuity is not
   erased from conventional existence.
