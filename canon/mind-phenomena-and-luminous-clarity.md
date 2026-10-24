@@ -222,7 +222,9 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     read as agreeing that the mere negation is not final while keeping conventional valid cognition firmly in place.
     None of this is yet checked against primary texts. Works to check: Cabezón and Dargyay, *Freedom from Extremes*
     (2007, on Gorampa); Pettit, *Mipham's Beacon of Certainty* (1999); Duckworth (2008) and Karma Phuntsho (2005) on
-    Mipham. Do not attribute either position in the books until it is confirmed (OP verification log).
+    Mipham. Do not attribute either position in the books until it is confirmed (OP verification log). The author's
+    confirmation of 2026-10-24 covers only Mipham's conventional defence of *rang rig* (Part II point 7), not the
+    categorized/uncategorized distinction.
 
 16. **Nirvāṇa is this same appearing with fixing ended.** It is not produced by practice and not an uncaused ground
     that was always there (nature point 5). It is not another place or a level above the world: there is not the
@@ -593,6 +595,39 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
     Openness"); MW Ch 16 (16.9), Ch 25; AE Preface, The Great Desynchronization, Ye Shes, The Formation of a Flower
     ("Effortless Binding"), Space Is Also a Formation; points 8, 22; Part II points 5, 13.*
 
+27. **Conventional existence does not wait on a present act of designating.** Conventional existence is established
+    by convention, not by any one mind's present act. What the world acknowledges, and what passes Tsongkhapa's three
+    criteria, exists conventionally. What no one is currently registering is not thereby erased from conventional
+    existence: the pot in the empty room, the mountain before anyone names it. Under analysis, neither the continuum
+    nor the one who designates it is found, and not being found under analysis is not the same as not existing
+    conventionally.
+
+    *Explanation.*
+    - **Both extremes are refused.** "It persisted by itself" is eternalism; "it did not exist, because no one was
+      designating it" is annihilationism. MMK 15.10: "'It exists' is grasping at permanence; 'it does not exist' is the
+      view of annihilation." A secret continuum flowing through deep sleep is the first extreme. "No continuum existed"
+      is the second.
+    - **Convention is what the world acknowledges.** Candrakīrti grounds conventional truth in what the world
+      acknowledges (*lokaprasiddha*), accepted as long as it is not analysed. The world says "she was under for three
+      hours". It is known to conventional cognition (the surgeon, the clock), no other conventional cognition
+      contradicts it, and analysis of the ultimate does not undermine it, since it never claimed to be more than a
+      convention (point 7).
+    - **A capacity, not an occurrence.** The Gelug debate manuals define an object of knowledge (*shes bya*) as "that
+      which is suitable to be an object of awareness" (*blo'i yul du bya rung ba*). *Rung ba* means "suitable", "able to
+      be", not "currently being known".
+    - **Appearing is not existing.** Under anaesthesia no continuum *appears* to that stream, and none is found under
+      analysis. That is the phenomenology, and it is right. It does not license "the continuum did not exist".
+    - **Designation is not the new carrier.** If things existed only while some mind was designating them, the act of
+      designating would become the substrate the world hangs on, which is the idealist extreme (point 6). The act of
+      designating is itself empty and dependent (point 9).
+
+    *Sources to verify before citing in a book.* MMK 15.10 is on the OP verification list. The *bya rung ba*
+    definition is standard in the Gelug collected topics (*bsdus grwa*) but has not yet been checked against a primary
+    text or a translation.
+
+    *MW 15.10; Art. The Illusion of the Given §5; AE "The Formation of a Mountain" ("still there" vs "independently
+    real"); OP Ch 10, Ch 13; points 6, 7, 9, 11. Adopted by the author on 2026-10-24.*
+
 ---
 
 ## Part II. Luminous clarity
@@ -688,7 +723,13 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
 7. **Self-knowing is not a self-standing knower.** *Rang rig* and rigpa do not posit a witness or an awareness
    that is independently established. "If the witness is a separate subject standing behind experience, it
    becomes one more *svabhāva*." The Yogācāra self-awareness critiqued by Candrakīrti is not adopted.
-   *OP Ch 19, Ch 21.*
+   Mipham's conventional defence of *rang rig* is adopted. Self-knowing is accepted as a conventional designation
+   (*tha snyad*), to account for memory and the immediacy of experience without a regress of further witnesses, and it
+   is not found under ultimate analysis. This is not the Yogācāra self-awareness, which was offered as proof of a
+   really existing, other-dependent consciousness. The author confirmed this reading of Mipham from repeated study
+   of the *Beacon of Certainty* (2026-10-24). The confirmation covers this point only; Mipham's lamp reply stays on the
+   do-not-reintroduce list.
+   *OP Ch 19, Ch 21; Art. The Illusion of the Given §3C.*
 
 8. **Vividness is the absence of mediation.** It is "not intensity added to ordinary perception… not a quality
    that makes appearances more real". It is not an undesignated floor uncovered when designation stops. What
@@ -911,6 +952,20 @@ short of the canon's conventional affirmation of rebirth.
   is "the ending of a set of conditions for a particular vividness". Both read as agnostic. Better: nothing continues
   *as a carrier*, while the conditioning of one life by the next is affirmed conventionally.
 
+**Continuity said not to exist when no one designates it (Part I point 27)**
+
+Added 2026-10-24. Still open.
+- Art. *The Architecture of Carrierless Continuity*, executive summary, finding 2: "When Designation Suspends,
+  Continuity Vanishes". Better: "When Designation Suspends, No Continuum Appears", adding that the continuity is not
+  erased from conventional existence.
+- Same article, §1.2: "no continuum existed prior to the imputation". Better: the continuum does not remain as an
+  objective fact standing by itself, nor does it lapse into non-existence.
+- Same article, §3.1: during anaesthesia continuity "did not exist", and "both 'persistence' and 'break' are
+  designations that require an operational observer". Better: it did not *appear*; conventionally the three hours
+  hold; "a secret persistence" and "a real break" are the two extremes (MMK 15.10).
+- Same article, summary matrix: "No continuum exists". Better: "No continuum appears to this stream; conventionally it
+  is not erased."
+
 **Wording that hints at a hidden presence**
 - OP Ch 3 "the nature of appearing is there, and it goes unrecognised"
 - OP Ch 23 "the habit that obscures it"
@@ -920,6 +975,7 @@ short of the canon's conventional affirmation of rebirth.
 - No text uses the words rangtong, shentong, 'od gsal or prabhāsvara, and Nyingma appears almost nowhere.
 - MW is entirely silent on luminosity.
 - OP anchors its Madhyamaka in Candrakīrti and Tsongkhapa and leaves the question between Gorampa and Mipham open.
+  Art. *The Illusion of the Given* takes Mipham's side on the conventional status of self-knowing only (Part II point 7).
 
 **Do not reintroduce** the claims removed in OP's verification log. They were also removed from the bonus articles on 2026-10-22 (live site version 63), but some remain in the *Substrateless World* and *Anatta to Emptiness* manuscripts, for example Visuddhimagga XVI.90 and MMK 2.18–20.
 - "groundless ground"

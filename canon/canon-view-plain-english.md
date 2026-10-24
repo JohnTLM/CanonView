@@ -127,6 +127,11 @@ empty of everything else but not of itself.
 26. **Effortlessness is what is left when the fixing stops.** It is not a better kind of effort or a state to keep
     up. "Effortless" doesn't mean you can skip the clear seeing that undoes the habit.
 
+27. **Things don't stop existing when no one is thinking of them.** Under anaesthesia no time is felt passing, and
+    looked for closely, no thread of time is found. But that doesn't mean the three hours didn't happen: the clock,
+    the surgeon and the patient on waking all count them, and that everyday count is valid. "It went on by itself" and
+    "it stopped existing" are the two mistakes the Middle Way avoids.
+
 ---
 
 ## Part Two: The clear, knowing quality of experience (luminosity)
@@ -152,6 +157,8 @@ empty of everything else but not of itself.
    things appear, with no projector behind them.
 
 7. **Knowing itself doesn't need a separate knower.** Self-knowing awareness is not a little witness inside.
+   Following Mipham, self-knowing is accepted as an everyday way of speaking, to explain memory, but it is not
+   found when looked for, like everything else.
 
 8. **Vividness means nothing in between.** Things feel vivid when the sense of distance drops away. It is not
    extra intensity, and it is not a raw layer found under thought.
