@@ -616,7 +616,7 @@ of phenomena, *chos nyid*) and marks mind as included, never as set apart.
       designating would become the substrate the world hangs on, which is the idealist extreme (point 6). The act of
       designating is itself empty and dependent (point 9).
 
-    *Sources to verify before citing in a book.* MMK 15.10 is on the OP verification list. The *bya rung ba*
+    *Sources to verify before citing in a book.* MMK 15.10 is confirmed (OP verification log, B1 and H3). The *bya rung ba*
     definition is standard in the Gelug collected topics (*bsdus grwa*) but has not yet been checked against a primary
     text or a translation.
 

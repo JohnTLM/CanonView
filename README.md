@@ -13,4 +13,5 @@ The canon view governing John Tan's four ebooks and bonus articles.
 Works covered: *The Logical Necessity of a Substrateless World*; *The Transition from Anatta to Emptiness*;
 *Nāgārjuna's Middle Way*; *The Observer and the Taste of Presence*; bonus articles *The Logic of Dependency*,
 *Isn't Energy the Substrate?*, *Death and Continuity*, *Dependent Designation and the Taste of Presence*,
-*Two Modes, One Seeing*, *Beyond Cause and Effect*, *Insubstantial Appearances*.
+*Two Modes, One Seeing*, *Beyond Cause and Effect*, *Insubstantial Appearances*, *The Illusion of the Given*
+(citation notes in `reading-notes/illusion-of-the-given.md`).
